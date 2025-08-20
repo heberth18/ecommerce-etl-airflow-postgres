@@ -1,0 +1,1001 @@
+order_id,customer_id,product_name,category,price,quantity,order_date,payment_type,country
+1,499,Monitor,Accessories,734.99,1,2025-01-22 08:37:00,PayPal,UK
+2,357,Keyboard,Electronics,1082.6,2,2025-01-30 22:00:00,PayPal,Canada
+3,466,Mouse,Electronics,566.4,2,2025-01-20 02:47:00,PayPal,Germany
+4,158,USB Cable,Accessories,300.29,2,2025-01-05 01:43:00,Debit Card,USA
+5,163,Mouse,Electronics,390.44,1,2025-01-05 01:52:00,PayPal,France
+6,89,Laptop,Accessories,786.28,4,2025-01-31 00:17:00,Debit Card,USA
+7,154,USB Cable,Electronics,1583.96,2,2025-01-02 23:34:00,Credit Card,France
+8,6,USB Cable,Electronics,996.83,3,2025-01-10 02:50:00,Debit Card,UK
+9,341,Monitor,Accessories,1475.08,1,2025-01-18 19:03:00,Debit Card,Canada
+10,199,Monitor,Electronics,1222.86,4,2025-01-26 11:13:00,Debit Card,UK
+11,134,Laptop,Electronics,1733.6,5,2025-01-05 23:10:00,Debit Card,UK
+12,185,Mouse,Accessories,847.0,3,2025-01-24 22:04:00,PayPal,USA
+13,466,Mouse,Accessories,1893.36,3,2025-01-05 06:17:00,Credit Card,France
+14,191,Keyboard,Accessories,546.01,5,2025-01-08 07:03:00,Credit Card,UK
+15,139,USB Cable,Electronics,1823.29,4,2025-01-05 21:59:00,Debit Card,Canada
+16,448,Keyboard,Accessories,1029.66,2,2025-01-04 06:19:00,Credit Card,France
+17,80,Keyboard,Electronics,1497.03,1,2025-01-27 17:12:00,Credit Card,UK
+18,441,USB Cable,Electronics,105.87,1,2025-01-07 18:24:00,Credit Card,Germany
+19,122,Mouse,Accessories,1211.67,4,2025-01-14 20:50:00,PayPal,Canada
+20,246,USB Cable,Electronics,226.16,1,2025-01-08 09:30:00,Debit Card,Canada
+21,140,Monitor,Accessories,1220.65,1,2025-01-29 08:23:00,Debit Card,USA
+22,170,Mouse,Electronics,608.85,4,2025-01-20 11:03:00,Credit Card,USA
+23,491,Keyboard,Accessories,636.73,4,2025-01-12 06:50:00,Credit Card,Germany
+24,42,Laptop,Electronics,1384.63,1,2025-01-20 12:15:00,Credit Card,USA
+25,283,Monitor,Electronics,787.17,5,2025-01-19 15:55:00,Credit Card,UK
+26,170,Laptop,Accessories,724.46,4,2025-01-11 17:31:00,Credit Card,UK
+27,409,Monitor,Accessories,277.65,3,2025-01-30 19:07:00,PayPal,Canada
+28,461,Laptop,Accessories,209.57,5,2025-01-01 17:37:00,PayPal,Germany
+29,296,Laptop,Accessories,1701.55,5,2025-01-28 15:53:00,PayPal,USA
+30,217,Mouse,Electronics,263.34,3,2025-01-08 05:10:00,Debit Card,UK
+31,427,Mouse,Accessories,1558.15,2,2025-01-14 00:05:00,PayPal,Germany
+32,197,Monitor,Accessories,191.9,5,2025-01-07 04:11:00,Credit Card,Germany
+33,371,Monitor,Accessories,1806.97,5,2025-01-27 01:20:00,PayPal,USA
+34,68,USB Cable,Accessories,1498.7,4,2025-01-13 19:14:00,Debit Card,France
+35,440,Laptop,Accessories,1236.61,5,2025-01-05 23:38:00,Credit Card,France
+36,34,USB Cable,Electronics,1609.73,1,2025-01-08 22:34:00,Debit Card,USA
+37,178,Mouse,Accessories,1648.92,1,2025-01-14 16:23:00,Credit Card,France
+38,76,Mouse,Accessories,1327.9,2,2025-01-17 19:29:00,Debit Card,Canada
+39,411,USB Cable,Electronics,901.23,5,2025-01-17 17:53:00,Credit Card,UK
+40,182,Laptop,Accessories,1997.54,3,2025-01-10 17:09:00,PayPal,UK
+41,200,Mouse,Electronics,1817.37,4,2025-01-16 23:24:00,PayPal,UK
+42,472,Mouse,Accessories,954.81,1,2025-01-04 05:36:00,Credit Card,France
+43,258,Monitor,Accessories,1365.56,3,2025-01-19 03:14:00,Credit Card,USA
+44,130,Keyboard,Accessories,1747.73,1,2025-01-04 11:28:00,PayPal,Germany
+45,84,Monitor,Accessories,597.83,5,2025-01-15 17:25:00,Credit Card,USA
+46,445,Mouse,Accessories,1041.94,2,2025-01-11 04:54:00,Debit Card,France
+47,216,Keyboard,Accessories,1604.17,2,2025-01-02 19:46:00,PayPal,USA
+48,103,Keyboard,Electronics,1802.85,1,2025-01-21 10:45:00,Debit Card,UK
+49,249,Keyboard,Electronics,1636.21,5,2025-01-27 10:01:00,Credit Card,Germany
+50,20,Laptop,Electronics,259.62,5,2025-01-31 07:41:00,Debit Card,Germany
+51,166,Keyboard,Accessories,117.24,5,2025-01-16 05:10:00,PayPal,Canada
+52,421,Keyboard,Accessories,1227.07,2,2025-01-19 13:37:00,Debit Card,Germany
+53,370,Keyboard,Accessories,269.42,4,2025-01-02 00:31:00,PayPal,UK
+54,5,USB Cable,Accessories,219.22,5,2025-01-03 19:36:00,PayPal,Canada
+55,383,Keyboard,Electronics,129.17,2,2025-01-17 18:12:00,Debit Card,UK
+56,239,Keyboard,Accessories,21.61,4,2025-01-22 03:08:00,PayPal,Germany
+57,185,Laptop,Accessories,195.2,5,2025-01-15 14:56:00,PayPal,USA
+58,31,Mouse,Accessories,914.36,1,2025-01-04 21:32:00,Credit Card,France
+59,289,Laptop,Accessories,1394.12,5,2025-01-20 19:57:00,PayPal,France
+60,160,Monitor,Accessories,998.5,1,2025-01-28 23:10:00,Debit Card,France
+61,224,Keyboard,Electronics,1130.48,2,2025-01-14 16:37:00,Credit Card,Germany
+62,461,Monitor,Electronics,1418.05,3,2025-01-08 09:05:00,PayPal,USA
+63,29,Monitor,Accessories,1657.36,5,2025-01-21 15:24:00,Debit Card,Germany
+64,268,Keyboard,Accessories,670.59,3,2025-01-31 00:32:00,Debit Card,France
+65,446,Keyboard,Electronics,1175.64,5,2025-01-06 08:07:00,PayPal,Germany
+66,25,USB Cable,Accessories,1658.34,4,2025-01-24 21:32:00,Debit Card,Canada
+67,429,USB Cable,Accessories,799.19,3,2025-01-08 01:51:00,Credit Card,USA
+68,267,USB Cable,Electronics,336.75,4,2025-01-15 13:44:00,Debit Card,USA
+69,494,Laptop,Accessories,412.01,4,2025-01-25 13:14:00,Debit Card,France
+70,257,Mouse,Electronics,1992.52,1,2025-01-04 11:47:00,Debit Card,France
+71,88,USB Cable,Electronics,1695.9,4,2025-01-05 01:52:00,PayPal,France
+72,477,Keyboard,Electronics,194.51,4,2025-01-08 02:46:00,PayPal,Canada
+73,27,Keyboard,Electronics,1102.38,2,2025-01-09 11:36:00,Debit Card,Canada
+74,346,Mouse,Accessories,485.44,1,2025-01-08 21:34:00,PayPal,Canada
+75,280,Laptop,Accessories,1169.75,1,2025-01-27 04:29:00,Debit Card,Germany
+76,174,Mouse,Accessories,1562.63,3,2025-01-02 14:58:00,Credit Card,USA
+77,204,Keyboard,Electronics,1133.63,1,2025-01-29 18:13:00,PayPal,UK
+78,155,Laptop,Accessories,497.07,5,2025-01-21 16:39:00,Debit Card,UK
+79,72,Laptop,Electronics,1834.21,2,2025-01-13 00:10:00,PayPal,Germany
+80,402,Keyboard,Electronics,1446.77,1,2025-01-17 04:04:00,Debit Card,UK
+81,167,Laptop,Accessories,896.95,5,2025-01-24 09:52:00,Debit Card,France
+82,18,USB Cable,Accessories,495.2,4,2025-01-20 17:36:00,Credit Card,USA
+83,50,Mouse,Electronics,1771.84,5,2025-01-30 02:38:00,Credit Card,USA
+84,166,Monitor,Accessories,78.72,2,2025-01-07 00:28:00,Credit Card,France
+85,486,Keyboard,Electronics,565.85,2,2025-01-03 14:01:00,PayPal,France
+86,172,USB Cable,Electronics,713.61,2,2025-01-17 23:00:00,Credit Card,Canada
+87,39,Monitor,Accessories,1851.58,2,2025-01-20 05:10:00,PayPal,Canada
+88,4,Keyboard,Accessories,1717.37,2,2025-01-13 11:57:00,PayPal,Germany
+89,330,Mouse,Accessories,1975.55,2,2025-01-12 04:41:00,Credit Card,Germany
+90,10,Laptop,Electronics,569.67,5,2025-01-28 10:16:00,Debit Card,UK
+91,135,Laptop,Accessories,1451.29,1,2025-01-17 13:11:00,PayPal,USA
+92,361,Mouse,Accessories,1913.57,1,2025-01-13 13:47:00,PayPal,USA
+93,83,USB Cable,Electronics,1049.69,2,2025-01-25 01:38:00,Credit Card,France
+94,55,USB Cable,Accessories,1434.75,2,2025-01-21 20:02:00,Credit Card,Canada
+95,383,Monitor,Electronics,1989.72,5,2025-01-02 22:34:00,PayPal,Germany
+96,413,Laptop,Electronics,1438.77,3,2025-01-27 02:18:00,Credit Card,UK
+97,426,Monitor,Electronics,400.4,1,2025-01-16 01:51:00,Credit Card,Canada
+98,175,Monitor,Accessories,1831.57,2,2025-01-30 05:55:00,PayPal,Germany
+99,22,Laptop,Electronics,1674.14,4,2025-01-07 07:22:00,Credit Card,USA
+100,7,Keyboard,Electronics,730.86,4,2025-01-22 22:18:00,Debit Card,France
+101,102,Monitor,Electronics,1612.89,1,2025-01-30 08:48:00,Debit Card,France
+102,276,Laptop,Accessories,655.79,2,2025-01-25 23:56:00,PayPal,France
+103,205,USB Cable,Accessories,1504.38,2,2025-01-10 08:31:00,PayPal,France
+104,178,Laptop,Accessories,1084.28,4,2025-01-14 03:36:00,Debit Card,France
+105,289,Keyboard,Accessories,1796.87,4,2025-01-21 21:56:00,Credit Card,France
+106,361,USB Cable,Accessories,737.61,5,2025-01-15 02:28:00,PayPal,Canada
+107,273,Keyboard,Electronics,1090.07,5,2025-01-24 21:34:00,Credit Card,France
+108,437,USB Cable,Electronics,533.14,5,2025-01-11 10:45:00,Credit Card,Germany
+109,305,Mouse,Accessories,809.58,3,2025-01-08 21:24:00,PayPal,Germany
+110,330,Monitor,Electronics,1080.34,1,2025-01-17 15:01:00,Debit Card,UK
+111,391,Laptop,Electronics,1375.88,3,2025-01-19 22:38:00,PayPal,USA
+112,412,Monitor,Electronics,1062.87,1,2025-01-10 13:40:00,Credit Card,France
+113,70,Laptop,Electronics,1173.25,2,2025-01-17 02:14:00,PayPal,Germany
+114,128,Mouse,Electronics,1686.41,4,2025-01-23 22:46:00,PayPal,UK
+115,107,Keyboard,Accessories,1535.1,5,2025-01-19 09:03:00,Credit Card,Canada
+116,334,Monitor,Accessories,130.41,5,2025-01-20 22:26:00,Debit Card,UK
+117,139,Keyboard,Accessories,664.51,5,2025-01-08 04:33:00,Credit Card,Canada
+118,323,Laptop,Electronics,1742.98,1,2025-01-30 10:37:00,Debit Card,Germany
+119,130,Mouse,Accessories,532.47,3,2025-01-30 01:31:00,Debit Card,France
+120,24,Monitor,Electronics,1662.65,5,2025-01-30 03:53:00,PayPal,USA
+121,165,USB Cable,Accessories,640.6,1,2025-01-13 02:47:00,Credit Card,USA
+122,308,Mouse,Electronics,276.11,4,2025-01-28 16:31:00,Debit Card,UK
+123,277,Keyboard,Accessories,888.75,4,2025-01-06 04:18:00,Credit Card,Germany
+124,326,Monitor,Electronics,635.64,1,2025-01-23 01:26:00,Debit Card,France
+125,352,Mouse,Accessories,33.01,5,2025-01-21 15:42:00,Credit Card,France
+126,10,Laptop,Accessories,236.86,4,2025-01-09 17:42:00,PayPal,France
+127,360,Mouse,Accessories,766.45,5,2025-01-25 18:36:00,PayPal,France
+128,221,Laptop,Electronics,1281.23,1,2025-01-09 05:59:00,Debit Card,Canada
+129,47,Laptop,Electronics,1491.22,5,2025-01-11 20:20:00,Debit Card,France
+130,238,USB Cable,Accessories,212.52,5,2025-01-18 04:00:00,Debit Card,Germany
+131,490,Monitor,Accessories,1598.51,5,2025-01-26 02:14:00,Credit Card,Canada
+132,118,Keyboard,Electronics,1043.37,3,2025-01-29 10:46:00,PayPal,Canada
+133,304,Laptop,Accessories,170.0,4,2025-01-01 05:49:00,Debit Card,Canada
+134,9,USB Cable,Accessories,170.85,4,2025-01-07 20:25:00,Credit Card,UK
+135,241,Monitor,Electronics,98.92,4,2025-01-13 22:14:00,Credit Card,France
+136,376,Keyboard,Electronics,325.95,2,2025-01-04 07:36:00,PayPal,USA
+137,68,USB Cable,Electronics,1160.43,3,2025-01-28 07:45:00,Credit Card,USA
+138,245,Monitor,Electronics,1344.18,1,2025-01-01 06:48:00,PayPal,France
+139,420,Laptop,Electronics,1668.36,5,2025-01-19 14:06:00,PayPal,France
+140,213,USB Cable,Accessories,1214.55,2,2025-01-24 05:04:00,Credit Card,USA
+141,8,Monitor,Accessories,1839.42,2,2025-01-12 13:55:00,Credit Card,USA
+142,428,Keyboard,Electronics,1723.99,4,2025-01-20 15:23:00,Debit Card,USA
+143,67,Laptop,Electronics,1179.73,3,2025-01-05 22:04:00,Debit Card,Canada
+144,468,Mouse,Accessories,951.56,4,2025-01-23 01:59:00,Debit Card,Canada
+145,72,Mouse,Electronics,1353.67,5,2025-01-19 20:39:00,PayPal,USA
+146,65,USB Cable,Electronics,202.59,2,2025-01-13 12:14:00,PayPal,USA
+147,400,Keyboard,Electronics,1165.77,5,2025-01-26 23:59:00,PayPal,USA
+148,78,USB Cable,Accessories,1358.19,3,2025-01-26 06:10:00,Debit Card,Canada
+149,437,Monitor,Accessories,56.38,3,2025-01-12 23:16:00,PayPal,UK
+150,388,Monitor,Accessories,1759.87,2,2025-01-09 13:05:00,PayPal,USA
+151,43,Keyboard,Electronics,958.01,2,2025-01-31 04:42:00,PayPal,Canada
+152,108,USB Cable,Accessories,72.08,3,2025-01-20 20:20:00,Credit Card,Germany
+153,23,Keyboard,Electronics,1850.08,2,2025-01-12 02:28:00,Credit Card,USA
+154,62,USB Cable,Accessories,322.13,2,2025-01-10 11:22:00,Credit Card,UK
+155,298,Laptop,Accessories,1543.56,1,2025-01-16 00:46:00,PayPal,USA
+156,6,Keyboard,Accessories,1996.75,3,2025-01-25 14:39:00,Debit Card,Canada
+157,107,Keyboard,Accessories,1315.01,2,2025-01-13 11:51:00,Credit Card,USA
+158,290,Laptop,Accessories,1443.89,2,2025-01-13 21:14:00,PayPal,USA
+159,3,Keyboard,Accessories,1099.63,1,2025-01-26 05:36:00,Debit Card,Germany
+160,408,Keyboard,Electronics,359.6,5,2025-01-20 09:05:00,PayPal,Canada
+161,487,Mouse,Accessories,1725.65,2,2025-01-19 16:16:00,PayPal,France
+162,478,Keyboard,Accessories,1642.92,1,2025-01-27 01:35:00,PayPal,USA
+163,98,Keyboard,Electronics,102.43,3,2025-01-09 08:54:00,Debit Card,Germany
+164,273,Laptop,Electronics,1306.82,1,2025-01-11 07:43:00,PayPal,USA
+165,386,USB Cable,Electronics,452.96,2,2025-01-15 02:42:00,Credit Card,France
+166,123,Mouse,Accessories,1911.87,2,2025-01-25 09:31:00,Debit Card,Germany
+167,401,Monitor,Accessories,1079.75,1,2025-01-23 12:36:00,Debit Card,UK
+168,107,Mouse,Accessories,1689.09,3,2025-01-04 03:07:00,Debit Card,Germany
+169,374,Monitor,Electronics,1773.96,4,2025-01-04 01:49:00,Debit Card,Canada
+170,191,Monitor,Electronics,1599.1,2,2025-01-11 00:40:00,PayPal,Germany
+171,240,Keyboard,Accessories,71.36,1,2025-01-02 03:33:00,Credit Card,UK
+172,292,Monitor,Accessories,257.66,2,2025-01-10 06:44:00,PayPal,France
+173,280,Keyboard,Accessories,1395.06,4,2025-01-17 05:52:00,Credit Card,France
+174,367,USB Cable,Accessories,1413.82,3,2025-01-04 02:09:00,Debit Card,USA
+175,143,Monitor,Accessories,135.31,1,2025-01-12 23:22:00,PayPal,Canada
+176,296,Monitor,Electronics,1669.52,3,2025-01-13 16:51:00,Credit Card,Canada
+177,206,Keyboard,Electronics,619.18,2,2025-01-07 14:18:00,Debit Card,Germany
+178,241,Mouse,Accessories,1612.91,1,2025-01-04 22:21:00,Debit Card,Canada
+179,107,Mouse,Electronics,505.26,3,2025-01-22 01:00:00,PayPal,UK
+180,157,Monitor,Accessories,1192.07,4,2025-01-23 23:47:00,Debit Card,UK
+181,349,USB Cable,Accessories,905.11,1,2025-01-04 21:41:00,Credit Card,USA
+182,155,Monitor,Electronics,1322.0,2,2025-01-17 05:40:00,Credit Card,USA
+183,179,Monitor,Electronics,1930.1,5,2025-01-17 14:21:00,PayPal,USA
+184,347,Mouse,Accessories,1258.15,5,2025-01-18 21:10:00,Credit Card,USA
+185,459,Monitor,Electronics,864.29,3,2025-01-04 08:02:00,PayPal,Canada
+186,339,Monitor,Electronics,1996.95,1,2025-01-23 16:51:00,Credit Card,USA
+187,9,Mouse,Electronics,573.36,5,2025-01-03 02:08:00,Debit Card,UK
+188,403,Mouse,Electronics,1631.26,2,2025-01-10 08:07:00,Credit Card,UK
+189,324,USB Cable,Electronics,435.04,1,2025-01-26 06:50:00,Debit Card,Canada
+190,456,Keyboard,Electronics,510.87,5,2025-01-30 23:44:00,Debit Card,Canada
+191,110,USB Cable,Accessories,20.19,2,2025-01-09 08:38:00,Credit Card,USA
+192,254,USB Cable,Accessories,347.19,5,2025-01-08 22:10:00,Credit Card,France
+193,207,USB Cable,Electronics,304.03,2,2025-01-09 01:57:00,PayPal,USA
+194,20,USB Cable,Accessories,1337.26,5,2025-01-03 07:54:00,PayPal,France
+195,185,USB Cable,Electronics,1225.84,4,2025-01-19 14:41:00,Debit Card,USA
+196,449,Monitor,Accessories,1911.02,4,2025-01-26 16:50:00,Credit Card,Canada
+197,147,Keyboard,Electronics,407.94,4,2025-01-22 04:20:00,PayPal,France
+198,92,Laptop,Electronics,805.22,2,2025-01-15 06:54:00,Debit Card,France
+199,414,Keyboard,Electronics,1492.72,1,2025-01-26 18:13:00,Credit Card,USA
+200,16,Laptop,Electronics,1034.6,2,2025-01-14 19:14:00,PayPal,Germany
+201,318,Laptop,Electronics,1001.56,2,2025-01-25 01:27:00,PayPal,USA
+202,305,USB Cable,Accessories,1940.23,1,2025-01-23 20:54:00,PayPal,Germany
+203,181,Laptop,Accessories,986.26,4,2025-01-21 06:28:00,Debit Card,Canada
+204,49,USB Cable,Accessories,196.27,3,2025-01-03 05:41:00,Debit Card,France
+205,384,Keyboard,Electronics,172.38,5,2025-01-05 07:03:00,Debit Card,Germany
+206,39,USB Cable,Accessories,1265.13,1,2025-01-09 23:52:00,Credit Card,Germany
+207,1,Keyboard,Electronics,784.46,2,2025-01-26 12:08:00,Debit Card,Germany
+208,139,Monitor,Accessories,658.23,4,2025-01-11 17:56:00,Credit Card,Germany
+209,473,Mouse,Electronics,765.83,4,2025-01-07 10:56:00,Debit Card,USA
+210,468,USB Cable,Electronics,1416.44,3,2025-01-10 21:42:00,Debit Card,USA
+211,110,Mouse,Accessories,1887.18,5,2025-01-25 22:01:00,PayPal,Canada
+212,124,USB Cable,Electronics,1614.8,5,2025-01-02 16:58:00,Debit Card,UK
+213,150,Keyboard,Accessories,623.59,5,2025-01-21 15:21:00,Credit Card,Germany
+214,225,Monitor,Accessories,58.38,2,2025-01-09 01:05:00,Credit Card,UK
+215,145,Mouse,Electronics,1109.01,3,2025-01-12 12:14:00,Debit Card,USA
+216,361,Monitor,Accessories,1962.2,3,2025-01-24 16:12:00,Debit Card,France
+217,356,USB Cable,Accessories,1111.62,2,2025-01-23 13:35:00,Debit Card,France
+218,351,USB Cable,Accessories,1506.35,2,2025-01-12 04:20:00,Credit Card,USA
+219,293,Mouse,Electronics,1990.22,2,2025-01-26 19:02:00,Credit Card,France
+220,27,Keyboard,Electronics,122.54,4,2025-01-23 10:02:00,Debit Card,USA
+221,141,Laptop,Accessories,1791.42,5,2025-01-21 06:08:00,Credit Card,Germany
+222,498,Monitor,Accessories,969.47,2,2025-01-16 01:59:00,PayPal,France
+223,493,Keyboard,Electronics,1014.3,3,2025-01-04 07:22:00,Debit Card,France
+224,111,USB Cable,Electronics,1185.47,1,2025-01-28 09:17:00,Credit Card,UK
+225,221,Mouse,Electronics,964.76,4,2025-01-01 04:40:00,Credit Card,Canada
+226,477,Laptop,Electronics,1933.85,2,2025-01-05 11:53:00,PayPal,UK
+227,417,Mouse,Electronics,1944.71,5,2025-01-09 02:41:00,Credit Card,USA
+228,277,Mouse,Electronics,834.73,4,2025-01-22 08:10:00,Debit Card,USA
+229,274,USB Cable,Electronics,251.16,5,2025-01-13 07:37:00,Debit Card,Canada
+230,80,Keyboard,Electronics,1858.87,1,2025-01-05 04:20:00,PayPal,UK
+231,2,Laptop,Accessories,1402.92,1,2025-01-31 09:20:00,PayPal,Canada
+232,428,Mouse,Accessories,1068.29,3,2025-01-17 09:45:00,Debit Card,USA
+233,279,USB Cable,Accessories,314.71,4,2025-01-14 11:59:00,PayPal,Germany
+234,13,Keyboard,Electronics,1660.48,4,2025-01-31 01:40:00,PayPal,UK
+235,458,Mouse,Accessories,1974.6,3,2025-01-24 23:37:00,Debit Card,Canada
+236,327,Monitor,Electronics,1502.51,3,2025-01-03 05:48:00,PayPal,USA
+237,24,Mouse,Accessories,1469.91,3,2025-01-24 07:08:00,Credit Card,USA
+238,493,Monitor,Accessories,558.61,1,2025-01-27 08:07:00,Debit Card,USA
+239,428,Mouse,Electronics,820.87,2,2025-01-20 21:42:00,Debit Card,Germany
+240,475,Keyboard,Electronics,231.73,2,2025-01-20 09:50:00,PayPal,Germany
+241,84,Keyboard,Accessories,1534.44,3,2025-01-01 14:49:00,PayPal,Canada
+242,338,Keyboard,Accessories,1074.23,5,2025-01-09 08:24:00,Debit Card,Canada
+243,124,USB Cable,Electronics,539.8,5,2025-01-23 17:13:00,Credit Card,UK
+244,297,Monitor,Electronics,697.41,5,2025-01-13 16:30:00,Debit Card,USA
+245,365,USB Cable,Accessories,1925.51,1,2025-01-31 16:42:00,PayPal,Canada
+246,215,USB Cable,Electronics,345.9,4,2025-01-17 19:06:00,Debit Card,Germany
+247,339,Laptop,Accessories,1077.77,3,2025-01-11 02:06:00,Debit Card,USA
+248,99,USB Cable,Accessories,544.16,1,2025-01-04 17:17:00,PayPal,Germany
+249,295,Keyboard,Electronics,1949.7,1,2025-01-20 07:29:00,Credit Card,Germany
+250,181,Keyboard,Accessories,1111.02,4,2025-01-23 08:45:00,Debit Card,Canada
+251,417,USB Cable,Accessories,1652.9,3,2025-01-28 05:21:00,PayPal,France
+252,383,USB Cable,Electronics,1465.37,3,2025-01-19 01:39:00,PayPal,France
+253,205,Keyboard,Electronics,1977.39,5,2025-01-15 21:24:00,Debit Card,UK
+254,362,Keyboard,Electronics,331.12,5,2025-01-05 20:02:00,Credit Card,Germany
+255,323,Monitor,Electronics,988.22,1,2025-01-20 02:31:00,Credit Card,Canada
+256,234,Monitor,Accessories,1940.19,1,2025-01-16 19:53:00,PayPal,USA
+257,182,USB Cable,Electronics,1605.03,5,2025-01-12 20:54:00,Debit Card,France
+258,240,USB Cable,Accessories,1422.67,3,2025-01-21 15:58:00,Debit Card,USA
+259,449,USB Cable,Accessories,592.0,4,2025-01-18 04:16:00,Credit Card,Germany
+260,22,Laptop,Electronics,361.7,5,2025-01-19 15:34:00,Debit Card,UK
+261,7,USB Cable,Electronics,1467.7,2,2025-01-25 17:00:00,PayPal,UK
+262,92,Keyboard,Accessories,502.81,4,2025-01-16 23:19:00,Debit Card,Canada
+263,341,Monitor,Electronics,1521.26,1,2025-01-03 11:51:00,Credit Card,USA
+264,493,USB Cable,Accessories,1984.35,4,2025-01-06 15:59:00,Debit Card,USA
+265,116,Monitor,Electronics,869.45,4,2025-01-01 10:51:00,Credit Card,UK
+266,329,Mouse,Accessories,497.57,3,2025-01-02 09:28:00,PayPal,Germany
+267,225,Keyboard,Electronics,274.8,5,2025-01-03 06:43:00,Credit Card,UK
+268,59,Keyboard,Electronics,353.71,3,2025-01-17 09:39:00,PayPal,Germany
+269,404,Keyboard,Electronics,977.39,5,2025-01-07 05:09:00,Credit Card,USA
+270,104,Laptop,Accessories,97.74,3,2025-01-01 07:33:00,PayPal,UK
+271,344,Mouse,Accessories,827.26,3,2025-01-20 18:26:00,Debit Card,USA
+272,28,USB Cable,Accessories,1841.06,3,2025-01-15 23:58:00,Credit Card,USA
+273,153,Laptop,Electronics,578.12,1,2025-01-13 23:09:00,Debit Card,UK
+274,321,Laptop,Accessories,129.15,3,2025-01-25 06:37:00,PayPal,UK
+275,26,Monitor,Electronics,1887.72,3,2025-01-13 18:24:00,Credit Card,Germany
+276,192,Laptop,Electronics,674.97,3,2025-01-07 08:50:00,PayPal,Canada
+277,223,USB Cable,Accessories,1991.2,4,2025-01-01 07:50:00,PayPal,Canada
+278,458,Mouse,Accessories,859.85,5,2025-01-17 22:33:00,PayPal,Germany
+279,414,Keyboard,Electronics,756.62,3,2025-01-19 23:52:00,PayPal,UK
+280,166,Monitor,Accessories,394.02,4,2025-01-11 09:27:00,Credit Card,UK
+281,229,USB Cable,Accessories,1476.76,4,2025-01-02 19:34:00,PayPal,Germany
+282,318,Monitor,Electronics,694.04,3,2025-01-07 03:12:00,Debit Card,USA
+283,4,Monitor,Accessories,1568.25,5,2025-01-27 12:53:00,Credit Card,Canada
+284,38,Mouse,Accessories,751.56,1,2025-01-21 10:00:00,Credit Card,Germany
+285,152,Keyboard,Accessories,669.55,5,2025-01-07 19:49:00,Debit Card,Germany
+286,42,USB Cable,Accessories,934.33,2,2025-01-11 09:08:00,Credit Card,France
+287,107,Monitor,Accessories,210.89,1,2025-01-03 23:52:00,Credit Card,USA
+288,346,Mouse,Electronics,316.8,3,2025-01-31 20:16:00,Debit Card,USA
+289,124,Monitor,Accessories,1467.22,3,2025-01-08 21:30:00,PayPal,USA
+290,323,Mouse,Accessories,1378.95,5,2025-01-04 19:21:00,Credit Card,France
+291,163,USB Cable,Accessories,706.31,2,2025-01-29 08:39:00,PayPal,USA
+292,95,USB Cable,Electronics,1673.66,3,2025-01-28 14:23:00,Credit Card,USA
+293,442,Keyboard,Accessories,623.76,4,2025-01-30 15:39:00,PayPal,UK
+294,41,Mouse,Accessories,1945.98,2,2025-01-13 18:00:00,PayPal,Canada
+295,126,Keyboard,Accessories,62.1,1,2025-01-27 08:59:00,Credit Card,USA
+296,394,Mouse,Accessories,335.04,4,2025-01-26 05:13:00,Debit Card,USA
+297,116,USB Cable,Accessories,61.31,4,2025-01-25 09:16:00,Credit Card,Germany
+298,150,Monitor,Accessories,1217.43,4,2025-01-21 11:31:00,PayPal,Germany
+299,418,Mouse,Accessories,1332.86,1,2025-01-24 06:25:00,Credit Card,Germany
+300,173,Mouse,Electronics,662.6,4,2025-01-24 22:10:00,Debit Card,Germany
+301,257,Laptop,Electronics,1827.42,4,2025-01-12 04:49:00,Debit Card,Germany
+302,387,Mouse,Electronics,1729.77,2,2025-01-13 09:51:00,Credit Card,Germany
+303,286,USB Cable,Accessories,534.42,5,2025-01-18 15:37:00,Debit Card,Germany
+304,208,Laptop,Electronics,1909.91,5,2025-01-05 12:27:00,PayPal,USA
+305,102,Mouse,Accessories,439.78,5,2025-01-04 21:45:00,Debit Card,Germany
+306,255,USB Cable,Electronics,993.03,4,2025-01-21 11:03:00,Credit Card,Germany
+307,269,Mouse,Electronics,1078.39,3,2025-01-22 05:11:00,Credit Card,France
+308,61,Keyboard,Electronics,1800.98,3,2025-01-22 09:17:00,Debit Card,France
+309,482,Mouse,Accessories,65.01,3,2025-01-14 01:00:00,Debit Card,Germany
+310,90,USB Cable,Accessories,1886.74,2,2025-01-16 18:33:00,Debit Card,France
+311,92,Laptop,Electronics,981.68,5,2025-01-23 10:59:00,PayPal,UK
+312,207,Monitor,Accessories,152.18,5,2025-01-23 16:44:00,Credit Card,France
+313,310,USB Cable,Electronics,290.11,2,2025-01-01 18:22:00,Credit Card,UK
+314,219,Laptop,Accessories,588.98,4,2025-01-02 16:22:00,Debit Card,France
+315,230,Keyboard,Electronics,444.05,2,2025-01-05 19:46:00,Credit Card,UK
+316,395,Laptop,Electronics,1862.71,2,2025-01-25 03:22:00,Credit Card,Canada
+317,298,Laptop,Electronics,692.07,5,2025-01-22 19:39:00,Credit Card,Canada
+318,167,Mouse,Electronics,473.38,1,2025-01-24 13:51:00,Credit Card,USA
+319,20,USB Cable,Electronics,862.84,2,2025-01-28 15:07:00,PayPal,Canada
+320,81,Mouse,Electronics,1559.66,5,2025-01-15 20:25:00,Debit Card,France
+321,226,Laptop,Electronics,713.02,1,2025-01-04 05:40:00,Credit Card,UK
+322,202,Keyboard,Accessories,709.01,1,2025-01-05 12:21:00,Debit Card,UK
+323,189,Mouse,Accessories,389.51,2,2025-01-13 03:16:00,Credit Card,France
+324,111,USB Cable,Electronics,243.48,2,2025-01-05 03:38:00,Debit Card,Canada
+325,236,Mouse,Electronics,1950.1,2,2025-01-20 05:37:00,Credit Card,USA
+326,294,Keyboard,Accessories,798.67,2,2025-01-23 05:19:00,Credit Card,France
+327,249,USB Cable,Electronics,1537.78,2,2025-01-26 21:36:00,PayPal,Germany
+328,355,Laptop,Electronics,1514.26,2,2025-01-10 11:46:00,PayPal,UK
+329,334,Keyboard,Accessories,1091.33,4,2025-01-26 09:18:00,PayPal,Germany
+330,260,Keyboard,Accessories,509.26,4,2025-01-13 09:27:00,PayPal,UK
+331,260,Mouse,Accessories,153.27,4,2025-01-27 08:31:00,Debit Card,Germany
+332,320,Monitor,Electronics,744.2,5,2025-01-22 02:06:00,PayPal,UK
+333,319,Monitor,Accessories,896.9,1,2025-01-19 05:10:00,Debit Card,Canada
+334,321,Keyboard,Accessories,1316.94,2,2025-01-07 03:57:00,PayPal,USA
+335,390,Laptop,Electronics,1515.94,1,2025-01-22 11:00:00,PayPal,France
+336,4,Monitor,Accessories,1247.39,4,2025-01-10 16:13:00,Debit Card,Canada
+337,194,Laptop,Accessories,1592.04,1,2025-01-04 13:25:00,Debit Card,Germany
+338,74,Mouse,Electronics,1041.13,3,2025-01-14 00:58:00,Debit Card,Germany
+339,423,Laptop,Accessories,312.44,5,2025-01-16 14:03:00,Credit Card,Canada
+340,79,USB Cable,Electronics,364.27,4,2025-01-20 13:11:00,Debit Card,UK
+341,262,Monitor,Electronics,1748.25,5,2025-01-08 11:35:00,Debit Card,USA
+342,373,USB Cable,Accessories,1076.3,1,2025-01-17 13:42:00,PayPal,France
+343,118,USB Cable,Electronics,825.91,1,2025-01-03 07:30:00,Debit Card,UK
+344,259,Laptop,Electronics,776.15,5,2025-01-03 15:19:00,PayPal,France
+345,497,Mouse,Electronics,595.01,5,2025-01-21 13:34:00,Debit Card,Canada
+346,260,Mouse,Electronics,869.37,1,2025-01-27 04:05:00,PayPal,USA
+347,382,Laptop,Electronics,283.64,2,2025-01-16 22:37:00,Debit Card,Germany
+348,190,USB Cable,Electronics,1141.31,5,2025-01-31 12:16:00,Debit Card,UK
+349,437,Laptop,Electronics,441.72,4,2025-01-17 15:11:00,Debit Card,UK
+350,393,Keyboard,Accessories,1317.87,3,2025-01-02 05:18:00,Debit Card,France
+351,367,USB Cable,Accessories,602.7,2,2025-01-21 22:14:00,Credit Card,France
+352,489,Monitor,Accessories,1955.96,1,2025-01-18 03:42:00,PayPal,Germany
+353,256,Keyboard,Electronics,1100.39,4,2025-01-06 04:57:00,Debit Card,Canada
+354,261,Monitor,Accessories,1386.12,4,2025-01-18 18:50:00,Debit Card,UK
+355,320,Keyboard,Accessories,538.01,5,2025-01-15 13:32:00,Debit Card,France
+356,265,Keyboard,Accessories,138.13,5,2025-01-09 21:48:00,Debit Card,Canada
+357,105,USB Cable,Electronics,935.92,3,2025-01-15 17:01:00,Debit Card,UK
+358,91,Keyboard,Accessories,63.29,2,2025-01-06 10:11:00,Debit Card,Canada
+359,81,USB Cable,Accessories,1077.97,5,2025-01-23 19:28:00,Credit Card,UK
+360,482,Mouse,Electronics,496.12,3,2025-01-10 18:12:00,Credit Card,USA
+361,192,Laptop,Electronics,824.39,3,2025-01-27 23:02:00,Debit Card,UK
+362,34,USB Cable,Electronics,306.35,2,2025-01-30 13:06:00,PayPal,USA
+363,275,Mouse,Accessories,205.86,4,2025-01-05 17:24:00,Credit Card,Canada
+364,377,Mouse,Electronics,1432.85,5,2025-01-03 16:24:00,Credit Card,USA
+365,400,Keyboard,Accessories,458.07,3,2025-01-13 04:37:00,Credit Card,UK
+366,98,Mouse,Electronics,1274.72,3,2025-01-11 20:11:00,Debit Card,UK
+367,444,USB Cable,Accessories,103.89,1,2025-01-24 23:19:00,Debit Card,Canada
+368,436,Laptop,Electronics,1459.57,3,2025-01-05 20:14:00,Debit Card,France
+369,199,USB Cable,Electronics,413.2,5,2025-01-18 04:23:00,PayPal,USA
+370,123,Laptop,Electronics,735.12,4,2025-01-13 15:33:00,Credit Card,Germany
+371,16,Monitor,Electronics,75.35,2,2025-01-05 23:49:00,Debit Card,Canada
+372,191,Keyboard,Accessories,418.53,1,2025-01-20 08:45:00,PayPal,France
+373,3,USB Cable,Electronics,698.11,1,2025-01-06 02:09:00,Debit Card,USA
+374,460,USB Cable,Accessories,983.66,5,2025-01-29 15:28:00,Debit Card,UK
+375,433,USB Cable,Electronics,549.02,1,2025-01-10 09:35:00,Debit Card,USA
+376,437,Laptop,Electronics,1093.16,1,2025-01-05 03:35:00,Credit Card,Canada
+377,6,Keyboard,Accessories,126.94,3,2025-01-16 15:08:00,Credit Card,Canada
+378,304,Monitor,Accessories,1194.09,3,2025-01-16 17:28:00,Debit Card,Canada
+379,306,USB Cable,Accessories,1710.57,5,2025-01-23 23:57:00,PayPal,USA
+380,4,Laptop,Accessories,229.22,5,2025-01-28 20:47:00,PayPal,UK
+381,298,Keyboard,Electronics,1837.85,4,2025-01-07 22:36:00,Credit Card,Germany
+382,445,Laptop,Electronics,822.79,4,2025-01-20 03:39:00,Debit Card,UK
+383,116,Mouse,Accessories,1958.96,3,2025-01-10 10:46:00,Debit Card,Germany
+384,289,USB Cable,Electronics,644.39,1,2025-01-02 05:15:00,Credit Card,Canada
+385,206,USB Cable,Accessories,586.66,2,2025-01-03 17:37:00,Credit Card,Germany
+386,277,Laptop,Accessories,1317.36,4,2025-01-21 01:55:00,PayPal,France
+387,388,Keyboard,Electronics,178.02,5,2025-01-14 05:06:00,Credit Card,UK
+388,154,Monitor,Electronics,524.16,3,2025-01-05 09:54:00,Credit Card,Canada
+389,236,USB Cable,Accessories,684.47,3,2025-01-20 09:44:00,PayPal,USA
+390,141,Monitor,Electronics,417.89,2,2025-01-21 15:53:00,Debit Card,Germany
+391,272,Monitor,Electronics,1497.22,2,2025-01-01 00:30:00,Debit Card,Canada
+392,186,Monitor,Electronics,1003.75,4,2025-01-21 19:09:00,Debit Card,USA
+393,71,Monitor,Electronics,1937.2,4,2025-01-10 07:32:00,PayPal,USA
+394,241,Keyboard,Electronics,128.08,2,2025-01-18 16:39:00,PayPal,Canada
+395,40,Laptop,Electronics,1253.77,1,2025-01-20 19:15:00,Credit Card,Germany
+396,446,Laptop,Accessories,1461.25,1,2025-01-05 08:20:00,PayPal,UK
+397,315,Keyboard,Accessories,831.21,4,2025-01-21 17:08:00,Debit Card,Germany
+398,282,Monitor,Accessories,1721.32,5,2025-01-14 04:27:00,PayPal,Canada
+399,274,Monitor,Electronics,667.34,2,2025-01-06 14:20:00,PayPal,UK
+400,404,Keyboard,Electronics,1632.16,5,2025-01-31 23:19:00,Debit Card,USA
+401,67,USB Cable,Accessories,936.66,4,2025-01-01 07:10:00,Debit Card,Germany
+402,369,Keyboard,Accessories,1517.4,5,2025-01-15 12:30:00,Debit Card,Canada
+403,73,Mouse,Accessories,292.19,1,2025-01-11 19:55:00,Debit Card,UK
+404,118,Monitor,Accessories,192.07,3,2025-01-31 22:01:00,Debit Card,USA
+405,4,Monitor,Accessories,682.15,3,2025-01-25 02:34:00,Credit Card,UK
+406,300,USB Cable,Electronics,673.79,5,2025-01-11 21:56:00,Credit Card,USA
+407,218,Laptop,Accessories,812.93,3,2025-01-19 16:35:00,Debit Card,France
+408,466,Keyboard,Accessories,1810.69,3,2025-01-06 18:34:00,PayPal,USA
+409,462,Monitor,Accessories,1691.94,1,2025-01-18 11:36:00,Credit Card,Canada
+410,278,Mouse,Electronics,299.68,5,2025-01-16 17:10:00,PayPal,France
+411,41,Laptop,Electronics,1440.27,1,2025-01-10 04:52:00,Debit Card,UK
+412,283,Laptop,Electronics,145.37,5,2025-01-30 19:11:00,Debit Card,Germany
+413,220,Mouse,Electronics,389.65,3,2025-01-14 02:56:00,Debit Card,Germany
+414,259,Keyboard,Electronics,752.57,3,2025-01-17 12:00:00,Debit Card,UK
+415,367,USB Cable,Accessories,655.73,4,2025-01-01 05:37:00,Debit Card,Canada
+416,400,Laptop,Electronics,1414.65,2,2025-01-15 19:42:00,Debit Card,USA
+417,58,Monitor,Electronics,749.5,4,2025-01-26 13:51:00,Credit Card,Germany
+418,252,Keyboard,Accessories,990.47,5,2025-01-17 06:40:00,Credit Card,Germany
+419,375,Monitor,Accessories,843.18,4,2025-01-27 07:46:00,Credit Card,USA
+420,114,USB Cable,Electronics,934.42,3,2025-01-25 21:49:00,Credit Card,UK
+421,358,Mouse,Accessories,1355.76,3,2025-01-09 05:57:00,PayPal,France
+422,337,Monitor,Accessories,168.99,1,2025-01-20 08:14:00,PayPal,Canada
+423,122,Mouse,Accessories,1066.23,1,2025-01-15 13:01:00,Debit Card,Germany
+424,499,Laptop,Electronics,83.71,3,2025-01-11 03:32:00,PayPal,UK
+425,191,Monitor,Electronics,42.39,5,2025-01-22 11:38:00,Credit Card,Canada
+426,307,Monitor,Accessories,162.59,1,2025-01-21 19:39:00,Debit Card,France
+427,49,Mouse,Accessories,503.65,4,2025-01-20 15:20:00,Debit Card,Canada
+428,223,Monitor,Electronics,250.52,3,2025-01-19 22:58:00,Credit Card,UK
+429,65,Mouse,Accessories,1792.77,4,2025-01-10 10:36:00,PayPal,Canada
+430,83,Keyboard,Accessories,1842.82,4,2025-01-30 07:14:00,Debit Card,UK
+431,68,USB Cable,Accessories,1031.23,4,2025-01-02 19:20:00,Credit Card,Germany
+432,315,Monitor,Accessories,1825.27,4,2025-01-07 09:16:00,Credit Card,Germany
+433,203,Mouse,Electronics,1755.97,5,2025-01-07 11:42:00,Credit Card,Canada
+434,153,USB Cable,Accessories,747.98,5,2025-01-19 01:57:00,PayPal,France
+435,122,Mouse,Electronics,1637.7,2,2025-01-26 12:26:00,PayPal,France
+436,14,Keyboard,Accessories,169.61,2,2025-01-27 17:01:00,PayPal,UK
+437,412,USB Cable,Electronics,1160.18,4,2025-01-08 13:26:00,Credit Card,UK
+438,329,Mouse,Accessories,1811.38,2,2025-01-02 10:20:00,PayPal,UK
+439,403,Mouse,Accessories,670.63,5,2025-01-02 12:11:00,Debit Card,Germany
+440,268,Keyboard,Accessories,1703.82,3,2025-01-20 03:36:00,Credit Card,Canada
+441,411,Mouse,Accessories,1210.66,1,2025-01-28 09:41:00,Credit Card,Germany
+442,433,USB Cable,Accessories,180.96,5,2025-01-29 08:23:00,PayPal,UK
+443,243,Monitor,Accessories,389.59,5,2025-01-06 13:27:00,PayPal,USA
+444,205,USB Cable,Accessories,1861.77,4,2025-01-30 21:18:00,Credit Card,USA
+445,296,Keyboard,Accessories,1903.07,5,2025-01-10 07:04:00,Debit Card,Canada
+446,178,Keyboard,Electronics,1343.27,4,2025-01-10 19:20:00,Credit Card,France
+447,274,Laptop,Electronics,1391.75,3,2025-01-15 01:56:00,Credit Card,Germany
+448,95,USB Cable,Electronics,1364.78,4,2025-01-03 00:37:00,PayPal,Canada
+449,362,Monitor,Accessories,1743.05,5,2025-01-13 01:58:00,Credit Card,Germany
+450,426,Monitor,Electronics,1646.16,3,2025-01-16 06:06:00,Credit Card,Germany
+451,253,Laptop,Electronics,681.57,5,2025-01-31 16:25:00,PayPal,Germany
+452,255,Mouse,Electronics,633.66,3,2025-01-25 16:53:00,Debit Card,France
+453,301,Mouse,Accessories,210.62,3,2025-01-02 00:28:00,Debit Card,France
+454,161,Monitor,Accessories,484.69,1,2025-01-01 07:14:00,Credit Card,USA
+455,392,USB Cable,Electronics,921.55,4,2025-01-02 20:24:00,PayPal,Canada
+456,121,Laptop,Electronics,1096.36,3,2025-01-09 13:07:00,Credit Card,France
+457,59,Mouse,Electronics,566.85,1,2025-01-12 22:24:00,Debit Card,Canada
+458,272,USB Cable,Accessories,373.81,3,2025-01-08 11:31:00,PayPal,USA
+459,200,Keyboard,Electronics,1536.23,2,2025-01-13 11:47:00,PayPal,France
+460,478,Laptop,Electronics,779.19,1,2025-01-20 18:10:00,Debit Card,France
+461,168,Monitor,Accessories,1935.39,4,2025-01-16 13:39:00,Credit Card,Canada
+462,64,USB Cable,Accessories,1359.51,3,2025-01-03 12:43:00,Credit Card,USA
+463,107,Laptop,Electronics,1051.98,1,2025-01-16 08:19:00,Debit Card,France
+464,222,Keyboard,Accessories,1976.74,3,2025-01-01 12:20:00,Credit Card,UK
+465,101,Laptop,Electronics,1508.7,5,2025-01-25 20:54:00,PayPal,Germany
+466,133,Keyboard,Electronics,1741.83,1,2025-01-14 12:01:00,PayPal,Germany
+467,68,Mouse,Electronics,81.35,4,2025-01-03 19:18:00,PayPal,France
+468,395,Mouse,Electronics,1954.42,4,2025-01-04 15:20:00,Debit Card,UK
+469,277,USB Cable,Electronics,1890.41,2,2025-01-31 08:32:00,PayPal,Canada
+470,453,USB Cable,Electronics,1344.55,1,2025-01-28 07:42:00,Debit Card,UK
+471,250,Keyboard,Electronics,579.53,5,2025-01-18 01:25:00,Credit Card,UK
+472,145,USB Cable,Accessories,1273.88,5,2025-01-06 23:59:00,Credit Card,France
+473,213,Mouse,Accessories,935.83,1,2025-01-05 03:19:00,Credit Card,Canada
+474,219,Keyboard,Electronics,419.2,2,2025-01-26 06:17:00,Debit Card,UK
+475,430,USB Cable,Electronics,344.96,2,2025-01-08 19:47:00,PayPal,France
+476,182,Monitor,Accessories,390.03,1,2025-01-25 06:26:00,PayPal,Canada
+477,431,Keyboard,Electronics,989.44,4,2025-01-14 13:29:00,Credit Card,USA
+478,248,Mouse,Accessories,800.63,2,2025-01-15 04:09:00,Debit Card,USA
+479,233,Mouse,Electronics,606.77,2,2025-01-23 21:48:00,Debit Card,Germany
+480,117,Keyboard,Electronics,565.23,5,2025-01-21 04:10:00,PayPal,Canada
+481,389,Mouse,Accessories,1350.99,4,2025-01-28 20:36:00,Credit Card,Canada
+482,376,Keyboard,Accessories,978.04,2,2025-01-10 22:45:00,Credit Card,UK
+483,389,Keyboard,Electronics,483.23,3,2025-01-09 06:56:00,Debit Card,Germany
+484,376,Laptop,Accessories,1226.19,3,2025-01-18 17:41:00,PayPal,Canada
+485,234,Keyboard,Electronics,33.04,4,2025-01-06 20:14:00,Debit Card,Germany
+486,143,USB Cable,Accessories,734.77,4,2025-01-02 04:21:00,Debit Card,Germany
+487,399,Monitor,Accessories,1628.08,1,2025-01-15 11:24:00,Credit Card,Germany
+488,22,Monitor,Accessories,28.59,2,2025-01-23 02:46:00,PayPal,Canada
+489,432,Keyboard,Electronics,759.44,5,2025-01-21 01:08:00,Debit Card,UK
+490,332,USB Cable,Electronics,1130.54,5,2025-01-22 19:58:00,Debit Card,Germany
+491,222,USB Cable,Electronics,1883.98,2,2025-01-23 21:51:00,PayPal,France
+492,15,USB Cable,Electronics,1174.62,1,2025-01-08 23:38:00,PayPal,UK
+493,135,USB Cable,Electronics,1835.33,4,2025-01-27 05:28:00,PayPal,UK
+494,411,Laptop,Accessories,1139.77,5,2025-01-20 17:07:00,Credit Card,Canada
+495,277,Keyboard,Electronics,1763.88,5,2025-01-09 20:18:00,PayPal,France
+496,40,Laptop,Accessories,1920.69,2,2025-01-23 04:48:00,Debit Card,Canada
+497,259,Keyboard,Accessories,259.02,2,2025-01-20 21:29:00,Credit Card,Germany
+498,286,Laptop,Electronics,1033.46,4,2025-01-07 14:01:00,Debit Card,Canada
+499,354,Monitor,Electronics,1931.75,3,2025-01-16 08:01:00,Credit Card,Canada
+500,332,Keyboard,Electronics,1116.43,1,2025-01-04 15:27:00,PayPal,USA
+501,198,Keyboard,Electronics,1076.14,4,2025-01-01 21:24:00,PayPal,France
+502,93,Mouse,Accessories,1243.56,2,2025-01-08 18:14:00,Debit Card,Germany
+503,93,Monitor,Electronics,749.78,5,2025-01-18 23:55:00,Credit Card,France
+504,168,Keyboard,Accessories,1521.46,3,2025-01-27 01:40:00,Debit Card,France
+505,111,USB Cable,Electronics,1922.34,3,2025-01-15 17:59:00,PayPal,Canada
+506,69,Mouse,Electronics,771.21,2,2025-01-07 05:24:00,Credit Card,Canada
+507,187,Mouse,Accessories,1359.31,3,2025-01-28 23:41:00,Debit Card,France
+508,179,USB Cable,Electronics,1708.56,4,2025-01-02 06:49:00,Credit Card,UK
+509,159,USB Cable,Electronics,1754.89,2,2025-01-11 14:11:00,Debit Card,UK
+510,392,Monitor,Electronics,1054.0,3,2025-01-03 13:25:00,PayPal,Germany
+511,210,Mouse,Electronics,182.59,2,2025-01-03 19:38:00,Debit Card,USA
+512,18,Mouse,Accessories,1815.32,2,2025-01-09 12:29:00,Debit Card,France
+513,307,Mouse,Accessories,801.17,1,2025-01-08 05:51:00,PayPal,Canada
+514,217,Mouse,Electronics,1669.86,3,2025-01-30 04:52:00,PayPal,France
+515,81,Keyboard,Electronics,396.58,4,2025-01-24 00:09:00,Credit Card,Canada
+516,185,USB Cable,Electronics,1021.47,4,2025-01-15 21:07:00,PayPal,France
+517,91,Monitor,Electronics,1765.82,3,2025-01-30 10:56:00,Credit Card,USA
+518,241,Monitor,Electronics,1802.77,3,2025-01-16 13:00:00,Debit Card,UK
+519,113,Laptop,Accessories,796.92,1,2025-01-19 09:00:00,PayPal,France
+520,464,USB Cable,Electronics,888.97,1,2025-01-28 03:27:00,PayPal,USA
+521,24,Keyboard,Accessories,670.88,2,2025-01-31 07:51:00,Debit Card,USA
+522,62,Keyboard,Electronics,1193.49,4,2025-01-26 06:51:00,Credit Card,Canada
+523,351,Monitor,Electronics,1835.34,3,2025-01-07 10:19:00,Credit Card,Canada
+524,371,Laptop,Accessories,1102.54,1,2025-01-16 12:27:00,PayPal,UK
+525,263,Mouse,Electronics,850.84,5,2025-01-02 05:09:00,Credit Card,France
+526,73,Monitor,Accessories,1214.35,4,2025-01-10 00:38:00,Credit Card,Germany
+527,57,Laptop,Electronics,1181.29,1,2025-01-04 16:04:00,Debit Card,Germany
+528,237,Laptop,Electronics,1397.94,5,2025-01-05 19:32:00,PayPal,Germany
+529,110,Monitor,Electronics,1969.01,5,2025-01-01 07:54:00,PayPal,UK
+530,114,Mouse,Electronics,1245.34,4,2025-01-03 14:20:00,Credit Card,UK
+531,57,Keyboard,Accessories,264.58,5,2025-01-21 20:09:00,PayPal,France
+532,4,USB Cable,Accessories,280.83,3,2025-01-13 10:24:00,Credit Card,Canada
+533,154,USB Cable,Accessories,1309.39,4,2025-01-20 00:09:00,Debit Card,UK
+534,194,Laptop,Electronics,1245.16,3,2025-01-17 23:08:00,Credit Card,UK
+535,243,Laptop,Electronics,768.47,4,2025-01-10 21:12:00,Debit Card,Canada
+536,219,Keyboard,Accessories,479.79,3,2025-01-23 03:40:00,Credit Card,Germany
+537,358,Keyboard,Electronics,1469.33,3,2025-01-20 17:25:00,PayPal,UK
+538,119,Monitor,Accessories,391.13,1,2025-01-27 23:23:00,PayPal,Germany
+539,272,Mouse,Electronics,1043.67,2,2025-01-13 10:18:00,Credit Card,UK
+540,359,Laptop,Accessories,742.14,3,2025-01-02 01:53:00,Debit Card,USA
+541,76,Keyboard,Electronics,1972.52,5,2025-01-28 12:48:00,PayPal,France
+542,175,Mouse,Electronics,1840.79,3,2025-01-02 05:45:00,PayPal,UK
+543,449,Monitor,Accessories,1374.12,3,2025-01-22 21:55:00,PayPal,France
+544,111,Mouse,Accessories,1675.21,3,2025-01-02 17:09:00,PayPal,UK
+545,124,Monitor,Electronics,1085.63,3,2025-01-14 08:21:00,PayPal,UK
+546,418,Laptop,Accessories,1980.7,5,2025-01-19 15:34:00,Debit Card,Germany
+547,247,Mouse,Accessories,1218.25,1,2025-01-27 03:50:00,Debit Card,Canada
+548,11,Monitor,Electronics,1182.03,4,2025-01-07 06:55:00,Credit Card,Germany
+549,365,Keyboard,Electronics,407.06,2,2025-01-20 11:41:00,Credit Card,USA
+550,279,Mouse,Accessories,260.27,1,2025-01-12 15:04:00,Credit Card,USA
+551,71,Laptop,Accessories,575.98,2,2025-01-17 15:18:00,Credit Card,Germany
+552,483,Laptop,Electronics,415.02,3,2025-01-29 19:25:00,PayPal,UK
+553,115,Keyboard,Accessories,1414.78,2,2025-01-28 03:42:00,Credit Card,USA
+554,229,Monitor,Electronics,796.89,1,2025-01-05 10:12:00,PayPal,Germany
+555,174,Monitor,Electronics,1163.68,5,2025-01-23 11:18:00,PayPal,France
+556,197,Keyboard,Accessories,1033.06,3,2025-01-14 00:08:00,PayPal,USA
+557,472,Keyboard,Electronics,859.36,5,2025-01-04 12:18:00,PayPal,USA
+558,300,Mouse,Accessories,92.54,4,2025-01-02 16:23:00,PayPal,Canada
+559,189,Laptop,Electronics,1673.48,3,2025-01-14 01:38:00,Debit Card,Canada
+560,337,Keyboard,Accessories,1423.95,5,2025-01-09 21:04:00,Credit Card,USA
+561,500,Laptop,Accessories,769.93,2,2025-01-06 10:15:00,Credit Card,UK
+562,286,Monitor,Electronics,115.04,2,2025-01-02 14:14:00,PayPal,France
+563,317,USB Cable,Accessories,1593.12,4,2025-01-20 13:30:00,Debit Card,France
+564,255,Monitor,Electronics,26.62,4,2025-01-30 21:42:00,Credit Card,Canada
+565,371,Monitor,Electronics,1659.84,4,2025-01-15 07:52:00,Credit Card,Germany
+566,68,Mouse,Accessories,1356.11,2,2025-01-04 12:48:00,Credit Card,France
+567,343,Mouse,Electronics,479.61,1,2025-01-14 04:46:00,PayPal,Germany
+568,263,USB Cable,Accessories,1153.65,4,2025-01-19 03:07:00,Credit Card,USA
+569,22,Laptop,Accessories,175.73,3,2025-01-13 11:03:00,Credit Card,UK
+570,43,Keyboard,Electronics,1285.43,3,2025-01-17 12:09:00,Credit Card,Canada
+571,82,Mouse,Accessories,781.67,2,2025-01-26 00:47:00,Debit Card,USA
+572,372,Laptop,Accessories,745.46,1,2025-01-23 15:12:00,Credit Card,Germany
+573,88,Mouse,Accessories,1230.22,1,2025-01-15 13:04:00,PayPal,France
+574,161,Keyboard,Accessories,590.53,1,2025-01-12 00:40:00,Debit Card,Germany
+575,67,Laptop,Accessories,1443.49,5,2025-01-13 01:00:00,Debit Card,France
+576,440,USB Cable,Electronics,1786.3,2,2025-01-02 03:31:00,PayPal,UK
+577,90,Keyboard,Accessories,1012.94,5,2025-01-31 02:39:00,Credit Card,USA
+578,277,Mouse,Accessories,115.17,1,2025-01-28 00:22:00,PayPal,France
+579,146,Monitor,Accessories,303.99,3,2025-01-06 13:21:00,Credit Card,USA
+580,158,Monitor,Accessories,1317.58,1,2025-01-03 13:18:00,Debit Card,France
+581,278,Laptop,Electronics,465.45,2,2025-01-27 01:49:00,PayPal,Canada
+582,334,Mouse,Accessories,558.88,4,2025-01-20 20:36:00,Debit Card,Canada
+583,189,Monitor,Accessories,1125.43,5,2025-01-12 06:15:00,PayPal,France
+584,130,Monitor,Accessories,1261.96,5,2025-01-29 01:15:00,Credit Card,UK
+585,384,Monitor,Electronics,1965.59,4,2025-01-13 09:46:00,Credit Card,France
+586,449,Keyboard,Accessories,856.05,5,2025-01-04 14:15:00,Credit Card,France
+587,313,USB Cable,Electronics,868.36,1,2025-01-09 21:50:00,Credit Card,USA
+588,68,USB Cable,Electronics,1801.6,3,2025-01-24 14:22:00,PayPal,UK
+589,466,Monitor,Accessories,979.43,1,2025-01-19 03:45:00,Credit Card,UK
+590,306,Keyboard,Accessories,461.92,5,2025-01-03 04:54:00,PayPal,Germany
+591,99,Laptop,Electronics,396.68,3,2025-01-08 10:21:00,Debit Card,USA
+592,148,Laptop,Electronics,830.31,5,2025-01-01 05:46:00,Credit Card,Canada
+593,177,Mouse,Accessories,691.2,5,2025-01-24 14:43:00,Debit Card,Canada
+594,301,USB Cable,Electronics,968.58,2,2025-01-20 19:01:00,Debit Card,USA
+595,338,Monitor,Electronics,690.54,3,2025-01-07 18:58:00,PayPal,France
+596,70,Laptop,Electronics,1934.91,3,2025-01-05 13:41:00,Debit Card,USA
+597,500,Mouse,Accessories,340.43,4,2025-01-22 05:24:00,PayPal,USA
+598,42,USB Cable,Electronics,766.74,5,2025-01-31 11:19:00,PayPal,UK
+599,320,USB Cable,Accessories,1234.74,2,2025-01-23 02:33:00,Debit Card,Canada
+600,363,USB Cable,Electronics,1017.88,2,2025-01-25 19:33:00,PayPal,USA
+601,478,Monitor,Accessories,1532.05,3,2025-01-09 23:56:00,Debit Card,UK
+602,54,Mouse,Electronics,1714.17,2,2025-01-07 13:38:00,Credit Card,Canada
+603,321,Monitor,Electronics,1653.81,2,2025-01-06 09:47:00,PayPal,France
+604,199,Monitor,Electronics,1693.2,4,2025-01-06 03:39:00,Credit Card,USA
+605,282,Monitor,Accessories,311.83,5,2025-01-01 19:14:00,Debit Card,France
+606,333,Laptop,Accessories,1334.09,2,2025-01-18 05:48:00,PayPal,France
+607,409,Laptop,Accessories,1509.17,3,2025-01-14 09:23:00,PayPal,Canada
+608,18,USB Cable,Electronics,1501.19,4,2025-01-10 21:08:00,Credit Card,UK
+609,257,Monitor,Electronics,767.41,5,2025-01-28 19:59:00,Debit Card,UK
+610,157,USB Cable,Electronics,543.86,3,2025-01-11 13:59:00,Debit Card,USA
+611,207,Monitor,Electronics,596.88,5,2025-01-09 07:04:00,PayPal,USA
+612,194,Mouse,Electronics,1272.31,1,2025-01-20 02:46:00,Credit Card,Canada
+613,42,Keyboard,Electronics,1203.9,3,2025-01-05 10:12:00,Debit Card,Germany
+614,59,USB Cable,Electronics,785.44,1,2025-01-01 00:03:00,Debit Card,UK
+615,366,Keyboard,Accessories,1463.0,5,2025-01-26 03:26:00,Debit Card,UK
+616,467,Monitor,Accessories,435.4,5,2025-01-15 01:04:00,PayPal,Germany
+617,165,Mouse,Electronics,621.07,5,2025-01-10 15:28:00,PayPal,USA
+618,360,USB Cable,Accessories,1779.52,4,2025-01-29 04:58:00,PayPal,Canada
+619,434,Monitor,Accessories,506.73,5,2025-01-23 19:21:00,Credit Card,USA
+620,493,Mouse,Electronics,1363.95,5,2025-01-31 16:09:00,Debit Card,Canada
+621,392,Monitor,Accessories,528.98,4,2025-01-12 05:06:00,Debit Card,France
+622,143,USB Cable,Electronics,1199.87,1,2025-01-01 16:43:00,Credit Card,UK
+623,273,USB Cable,Accessories,1487.89,1,2025-01-18 18:37:00,PayPal,UK
+624,204,Monitor,Electronics,1754.58,2,2025-01-02 22:25:00,PayPal,UK
+625,23,Keyboard,Electronics,1534.78,2,2025-01-04 06:32:00,Credit Card,Germany
+626,481,USB Cable,Electronics,876.22,4,2025-01-03 05:38:00,Debit Card,UK
+627,317,Keyboard,Accessories,1955.18,4,2025-01-01 15:33:00,PayPal,USA
+628,138,Mouse,Accessories,1027.41,5,2025-01-15 18:39:00,Debit Card,France
+629,272,USB Cable,Electronics,1190.54,1,2025-01-13 00:11:00,PayPal,Germany
+630,53,Mouse,Electronics,1044.06,1,2025-01-08 14:30:00,PayPal,France
+631,342,Laptop,Accessories,1809.43,4,2025-01-18 00:32:00,Debit Card,USA
+632,128,Mouse,Accessories,1501.78,1,2025-01-20 20:23:00,Debit Card,USA
+633,275,Laptop,Electronics,1446.71,3,2025-01-08 00:00:00,Debit Card,USA
+634,398,Mouse,Accessories,1757.22,4,2025-01-02 12:01:00,Debit Card,Canada
+635,243,Laptop,Accessories,131.08,1,2025-01-09 00:31:00,PayPal,Canada
+636,276,Mouse,Electronics,1265.87,2,2025-01-20 20:29:00,Credit Card,France
+637,439,USB Cable,Accessories,1291.81,3,2025-01-14 20:24:00,Debit Card,France
+638,66,Laptop,Electronics,1942.24,1,2025-01-12 01:40:00,PayPal,Germany
+639,3,Laptop,Electronics,132.75,1,2025-01-28 03:25:00,Credit Card,Canada
+640,59,Laptop,Electronics,1196.11,1,2025-01-17 08:40:00,Credit Card,UK
+641,363,Mouse,Accessories,1952.98,5,2025-01-24 09:23:00,Debit Card,USA
+642,62,Laptop,Electronics,139.29,5,2025-01-06 16:27:00,Debit Card,Canada
+643,104,Mouse,Accessories,1330.0,4,2025-01-23 05:40:00,Credit Card,USA
+644,293,Mouse,Electronics,1402.17,1,2025-01-18 09:29:00,Debit Card,France
+645,371,Mouse,Electronics,783.85,1,2025-01-19 07:09:00,Credit Card,Canada
+646,442,Laptop,Electronics,422.98,1,2025-01-06 23:13:00,PayPal,USA
+647,241,Monitor,Electronics,541.88,4,2025-01-17 10:19:00,PayPal,UK
+648,119,Mouse,Electronics,1349.97,5,2025-01-19 06:54:00,PayPal,Germany
+649,186,Mouse,Electronics,430.64,4,2025-01-25 10:48:00,Credit Card,USA
+650,402,USB Cable,Accessories,533.67,1,2025-01-29 07:28:00,Credit Card,USA
+651,256,Laptop,Electronics,747.03,3,2025-01-29 03:06:00,Debit Card,Germany
+652,352,Mouse,Accessories,1484.95,3,2025-01-26 00:19:00,PayPal,Germany
+653,222,Laptop,Electronics,453.75,3,2025-01-07 18:09:00,PayPal,UK
+654,62,Monitor,Accessories,1285.97,1,2025-01-10 07:15:00,Debit Card,France
+655,366,Laptop,Electronics,1999.15,1,2025-01-01 01:54:00,PayPal,Canada
+656,23,Mouse,Electronics,1007.82,5,2025-01-20 16:28:00,PayPal,Canada
+657,259,Mouse,Accessories,1730.91,4,2025-01-15 07:12:00,Credit Card,France
+658,331,Mouse,Electronics,1660.85,2,2025-01-26 18:37:00,Debit Card,France
+659,341,Mouse,Accessories,750.93,5,2025-01-07 18:14:00,PayPal,Germany
+660,265,Monitor,Accessories,1851.34,4,2025-01-24 16:34:00,PayPal,UK
+661,104,Monitor,Accessories,903.48,5,2025-01-30 22:02:00,Debit Card,Germany
+662,381,Keyboard,Accessories,192.36,5,2025-01-04 06:29:00,Credit Card,Germany
+663,185,Mouse,Accessories,1246.27,2,2025-01-13 22:57:00,Credit Card,UK
+664,190,Keyboard,Accessories,635.6,4,2025-01-20 01:31:00,Debit Card,Canada
+665,499,Laptop,Electronics,1492.21,4,2025-01-10 06:43:00,Credit Card,France
+666,388,Mouse,Accessories,1386.25,4,2025-01-20 04:22:00,Debit Card,France
+667,412,Laptop,Accessories,1664.24,1,2025-01-17 00:51:00,PayPal,Canada
+668,177,USB Cable,Accessories,1903.47,1,2025-01-16 20:52:00,Credit Card,Canada
+669,346,Keyboard,Electronics,1296.7,5,2025-01-18 15:23:00,PayPal,UK
+670,398,Keyboard,Accessories,432.53,1,2025-01-24 23:57:00,Credit Card,Germany
+671,491,Keyboard,Accessories,1837.73,5,2025-01-29 13:17:00,Credit Card,Canada
+672,482,Keyboard,Accessories,250.06,4,2025-01-03 05:39:00,Credit Card,Canada
+673,206,Laptop,Accessories,231.27,4,2025-01-27 07:30:00,Debit Card,UK
+674,382,Monitor,Electronics,703.57,1,2025-01-30 09:41:00,PayPal,Germany
+675,375,Keyboard,Accessories,1334.81,5,2025-01-21 04:02:00,Debit Card,France
+676,90,Keyboard,Accessories,554.52,4,2025-01-26 08:09:00,Debit Card,UK
+677,471,Mouse,Accessories,1838.46,2,2025-01-28 23:36:00,Credit Card,USA
+678,155,Mouse,Electronics,1437.58,2,2025-01-03 18:54:00,Credit Card,USA
+679,311,Mouse,Electronics,1400.5,4,2025-01-25 03:29:00,Debit Card,Germany
+680,455,Mouse,Accessories,653.42,1,2025-01-24 11:23:00,Credit Card,France
+681,64,Laptop,Electronics,1515.98,5,2025-01-13 19:23:00,Credit Card,France
+682,23,Mouse,Electronics,624.7,2,2025-01-02 19:37:00,Debit Card,UK
+683,167,Laptop,Electronics,589.58,5,2025-01-23 19:08:00,Credit Card,Germany
+684,356,Mouse,Electronics,286.18,3,2025-01-17 22:00:00,Debit Card,France
+685,175,Keyboard,Accessories,827.62,4,2025-01-04 04:56:00,Credit Card,USA
+686,46,Keyboard,Electronics,1737.77,1,2025-01-26 07:34:00,Credit Card,Canada
+687,50,Keyboard,Electronics,1447.41,4,2025-01-01 04:43:00,PayPal,Canada
+688,367,Mouse,Electronics,1894.15,4,2025-01-30 23:06:00,PayPal,UK
+689,444,Monitor,Accessories,1610.97,2,2025-01-30 03:11:00,Debit Card,France
+690,237,Mouse,Electronics,773.54,1,2025-01-11 03:47:00,Credit Card,Canada
+691,125,Mouse,Electronics,1268.01,1,2025-01-06 03:55:00,PayPal,France
+692,129,Mouse,Accessories,699.46,2,2025-01-02 01:12:00,Debit Card,UK
+693,44,USB Cable,Electronics,1153.65,3,2025-01-24 09:27:00,Credit Card,Germany
+694,316,Keyboard,Electronics,485.3,2,2025-01-15 00:38:00,PayPal,USA
+695,422,Monitor,Electronics,362.96,4,2025-01-01 19:28:00,Debit Card,Canada
+696,104,USB Cable,Electronics,1374.56,3,2025-01-31 16:30:00,Credit Card,France
+697,393,Mouse,Accessories,261.93,4,2025-01-11 22:28:00,PayPal,UK
+698,457,USB Cable,Electronics,1613.85,2,2025-01-13 18:35:00,PayPal,France
+699,113,Mouse,Accessories,602.37,1,2025-01-13 04:16:00,PayPal,USA
+700,311,Keyboard,Accessories,205.2,1,2025-01-05 12:04:00,Debit Card,USA
+701,141,USB Cable,Electronics,1996.92,4,2025-01-17 16:32:00,PayPal,UK
+702,368,Keyboard,Electronics,584.66,2,2025-01-20 23:31:00,PayPal,USA
+703,89,USB Cable,Accessories,990.49,5,2025-01-20 04:53:00,Debit Card,Germany
+704,118,Laptop,Accessories,1392.92,3,2025-01-27 10:20:00,Credit Card,UK
+705,21,Monitor,Electronics,866.4,2,2025-01-30 09:40:00,PayPal,Canada
+706,450,USB Cable,Accessories,1107.19,2,2025-01-21 02:35:00,PayPal,Germany
+707,482,Monitor,Accessories,1817.03,2,2025-01-30 00:33:00,Credit Card,France
+708,79,USB Cable,Accessories,1908.14,1,2025-01-08 16:03:00,Debit Card,Germany
+709,437,Mouse,Electronics,1088.69,1,2025-01-06 23:02:00,PayPal,USA
+710,456,Keyboard,Electronics,509.09,2,2025-01-06 03:04:00,PayPal,France
+711,242,USB Cable,Accessories,1596.77,1,2025-01-04 15:43:00,Credit Card,UK
+712,146,Keyboard,Accessories,693.79,1,2025-01-13 08:03:00,Credit Card,Canada
+713,122,Mouse,Electronics,713.25,3,2025-01-18 14:07:00,Credit Card,USA
+714,415,Keyboard,Accessories,1025.36,3,2025-01-08 08:55:00,Credit Card,UK
+715,65,Keyboard,Electronics,750.43,5,2025-01-30 19:34:00,PayPal,USA
+716,106,Keyboard,Electronics,1347.29,4,2025-01-18 12:24:00,PayPal,UK
+717,359,Mouse,Accessories,865.64,1,2025-01-26 12:40:00,Credit Card,UK
+718,70,Keyboard,Accessories,460.39,5,2025-01-31 01:30:00,PayPal,USA
+719,373,Laptop,Accessories,579.48,5,2025-01-13 13:10:00,Credit Card,Germany
+720,254,USB Cable,Electronics,1773.4,2,2025-01-09 13:28:00,Credit Card,Canada
+721,489,Mouse,Electronics,1731.78,3,2025-01-09 03:50:00,PayPal,France
+722,400,Mouse,Accessories,949.91,4,2025-01-05 08:31:00,Credit Card,Canada
+723,35,Laptop,Accessories,216.89,2,2025-01-04 10:19:00,PayPal,France
+724,459,Laptop,Electronics,1085.75,4,2025-01-29 14:16:00,Credit Card,UK
+725,63,USB Cable,Electronics,1817.24,2,2025-01-21 21:21:00,Debit Card,USA
+726,416,Monitor,Electronics,1038.5,1,2025-01-08 13:50:00,Debit Card,UK
+727,419,USB Cable,Electronics,1742.17,4,2025-01-27 14:00:00,Debit Card,UK
+728,84,Mouse,Accessories,54.62,1,2025-01-10 14:33:00,Debit Card,Germany
+729,136,Mouse,Electronics,1906.61,4,2025-01-02 14:53:00,Debit Card,UK
+730,100,Monitor,Electronics,570.8,5,2025-01-08 16:03:00,PayPal,USA
+731,5,USB Cable,Accessories,1804.69,4,2025-01-08 02:15:00,Debit Card,UK
+732,210,Mouse,Electronics,1909.82,4,2025-01-16 05:15:00,PayPal,Canada
+733,301,Monitor,Electronics,687.74,1,2025-01-04 19:29:00,PayPal,Canada
+734,281,Laptop,Accessories,306.52,4,2025-01-16 07:27:00,PayPal,Germany
+735,200,Laptop,Accessories,540.1,1,2025-01-22 01:51:00,PayPal,Germany
+736,234,Keyboard,Electronics,176.75,2,2025-01-14 01:38:00,PayPal,UK
+737,289,USB Cable,Accessories,1498.34,3,2025-01-01 23:54:00,PayPal,France
+738,196,Mouse,Accessories,1563.08,2,2025-01-26 10:17:00,PayPal,Germany
+739,371,Mouse,Accessories,1627.08,1,2025-01-15 05:34:00,Debit Card,USA
+740,359,Keyboard,Accessories,1142.08,5,2025-01-17 09:23:00,Debit Card,France
+741,214,Mouse,Electronics,1278.75,2,2025-01-11 10:25:00,Credit Card,UK
+742,209,Keyboard,Accessories,91.34,3,2025-01-27 16:37:00,Credit Card,UK
+743,190,Monitor,Accessories,831.83,3,2025-01-12 21:27:00,Debit Card,USA
+744,278,Keyboard,Electronics,422.43,3,2025-01-12 11:58:00,PayPal,France
+745,383,Mouse,Accessories,13.46,4,2025-01-15 19:05:00,Debit Card,Germany
+746,55,USB Cable,Accessories,142.12,3,2025-01-17 16:05:00,PayPal,Canada
+747,282,USB Cable,Accessories,1552.52,1,2025-01-06 08:53:00,Debit Card,Canada
+748,139,Laptop,Accessories,1394.5,3,2025-01-21 08:19:00,Credit Card,Canada
+749,336,Monitor,Electronics,870.45,1,2025-01-12 03:54:00,Debit Card,Germany
+750,451,Laptop,Electronics,1209.94,4,2025-01-20 04:23:00,PayPal,USA
+751,188,Mouse,Accessories,1836.1,4,2025-01-05 12:56:00,PayPal,France
+752,355,Laptop,Electronics,583.55,5,2025-01-01 09:57:00,PayPal,UK
+753,219,Keyboard,Accessories,237.3,2,2025-01-21 09:36:00,Credit Card,Germany
+754,171,Keyboard,Electronics,1686.13,5,2025-01-22 14:48:00,Credit Card,USA
+755,168,Mouse,Electronics,1789.31,1,2025-01-15 01:22:00,Credit Card,UK
+756,186,Keyboard,Electronics,1309.25,5,2025-01-18 00:03:00,PayPal,Canada
+757,301,Mouse,Electronics,1350.06,1,2025-01-12 11:24:00,Debit Card,Germany
+758,373,Monitor,Accessories,1424.52,2,2025-01-12 08:42:00,Debit Card,Canada
+759,63,Mouse,Accessories,856.07,1,2025-01-09 06:43:00,Credit Card,USA
+760,461,USB Cable,Electronics,881.34,3,2025-01-08 17:15:00,Debit Card,Germany
+761,475,Laptop,Electronics,1451.38,1,2025-01-31 00:52:00,Debit Card,USA
+762,140,Mouse,Electronics,722.31,3,2025-01-12 19:30:00,Credit Card,UK
+763,85,Laptop,Accessories,1937.72,1,2025-01-29 10:56:00,Credit Card,UK
+764,243,USB Cable,Accessories,100.65,3,2025-01-25 03:38:00,Credit Card,UK
+765,327,Laptop,Electronics,34.87,1,2025-01-31 16:10:00,Debit Card,UK
+766,195,Laptop,Electronics,1572.9,1,2025-01-11 12:43:00,Credit Card,France
+767,464,Mouse,Accessories,1411.82,3,2025-01-05 15:09:00,Debit Card,Germany
+768,94,USB Cable,Electronics,93.65,1,2025-01-24 13:26:00,Credit Card,Canada
+769,166,Keyboard,Electronics,761.58,5,2025-01-21 05:45:00,Debit Card,Canada
+770,305,Keyboard,Accessories,1599.39,2,2025-01-11 09:51:00,Credit Card,France
+771,18,Monitor,Electronics,764.86,5,2025-01-30 22:08:00,Credit Card,Canada
+772,172,Mouse,Accessories,610.16,4,2025-01-15 14:31:00,Credit Card,USA
+773,361,Laptop,Electronics,1705.43,2,2025-01-03 02:17:00,Credit Card,Canada
+774,214,USB Cable,Electronics,1971.61,5,2025-01-18 05:29:00,Debit Card,Canada
+775,312,Laptop,Accessories,1884.34,4,2025-01-25 16:25:00,PayPal,USA
+776,259,Mouse,Electronics,369.34,5,2025-01-30 14:13:00,Debit Card,UK
+777,323,Monitor,Accessories,750.7,1,2025-01-27 18:09:00,PayPal,USA
+778,233,Laptop,Electronics,1514.84,4,2025-01-19 00:51:00,Credit Card,UK
+779,211,USB Cable,Electronics,992.7,4,2025-01-18 12:23:00,PayPal,USA
+780,219,Laptop,Accessories,227.6,3,2025-01-16 03:25:00,Credit Card,Canada
+781,372,Monitor,Electronics,1105.02,4,2025-01-12 04:52:00,Debit Card,Canada
+782,84,Monitor,Accessories,673.98,2,2025-01-09 12:19:00,Credit Card,Canada
+783,160,USB Cable,Electronics,1536.68,4,2025-01-14 13:58:00,Credit Card,Germany
+784,496,USB Cable,Accessories,1296.68,3,2025-01-23 06:36:00,Debit Card,France
+785,307,Monitor,Electronics,131.23,4,2025-01-14 00:59:00,PayPal,Germany
+786,188,Keyboard,Accessories,1941.65,3,2025-01-14 17:28:00,PayPal,France
+787,152,Monitor,Electronics,1406.65,1,2025-01-02 03:57:00,Debit Card,UK
+788,176,Laptop,Electronics,1550.08,5,2025-01-20 05:45:00,PayPal,Germany
+789,1,Mouse,Electronics,1491.97,5,2025-01-20 10:26:00,PayPal,Germany
+790,492,USB Cable,Accessories,1384.62,4,2025-01-09 19:08:00,PayPal,Canada
+791,178,Keyboard,Electronics,349.52,2,2025-01-21 18:13:00,Debit Card,Germany
+792,410,Monitor,Electronics,1311.99,4,2025-01-12 17:57:00,Credit Card,Germany
+793,28,Keyboard,Electronics,765.44,2,2025-01-29 13:59:00,Debit Card,USA
+794,422,Laptop,Electronics,873.52,5,2025-01-23 23:42:00,Credit Card,USA
+795,385,USB Cable,Electronics,76.82,3,2025-01-03 00:47:00,Credit Card,UK
+796,430,USB Cable,Electronics,121.32,5,2025-01-30 17:53:00,Credit Card,France
+797,17,Laptop,Electronics,1887.48,2,2025-01-03 21:08:00,PayPal,USA
+798,346,Monitor,Accessories,1953.93,2,2025-01-06 22:13:00,Credit Card,France
+799,3,Laptop,Accessories,974.02,5,2025-01-16 08:53:00,PayPal,USA
+800,183,Mouse,Electronics,1738.0,4,2025-01-05 14:35:00,Debit Card,Germany
+801,87,Keyboard,Electronics,618.42,3,2025-01-11 03:58:00,PayPal,Canada
+802,327,Mouse,Accessories,820.88,2,2025-01-25 16:19:00,Debit Card,USA
+803,95,Keyboard,Electronics,1843.47,3,2025-01-26 02:41:00,PayPal,France
+804,348,Keyboard,Electronics,1030.25,3,2025-01-16 23:51:00,Debit Card,UK
+805,366,USB Cable,Accessories,1718.4,4,2025-01-04 14:27:00,Debit Card,Germany
+806,440,Laptop,Electronics,279.99,2,2025-01-27 01:24:00,PayPal,Germany
+807,37,Monitor,Electronics,1237.35,1,2025-01-09 01:22:00,PayPal,Germany
+808,237,Laptop,Electronics,1322.01,1,2025-01-16 07:13:00,Credit Card,Germany
+809,106,Laptop,Electronics,1409.09,2,2025-01-03 20:04:00,PayPal,Germany
+810,377,Keyboard,Electronics,57.1,1,2025-01-17 15:54:00,Credit Card,USA
+811,42,Laptop,Electronics,1596.26,4,2025-01-18 18:45:00,Debit Card,UK
+812,75,Keyboard,Accessories,509.38,2,2025-01-08 02:44:00,Credit Card,USA
+813,261,USB Cable,Electronics,506.69,3,2025-01-30 04:58:00,PayPal,Canada
+814,452,Laptop,Electronics,1582.2,2,2025-01-07 08:43:00,PayPal,USA
+815,221,Keyboard,Electronics,91.47,3,2025-01-20 11:20:00,Credit Card,Germany
+816,421,Keyboard,Electronics,1376.32,5,2025-01-22 11:16:00,PayPal,France
+817,447,Mouse,Electronics,1193.99,2,2025-01-31 04:15:00,Credit Card,Canada
+818,160,Monitor,Electronics,1021.81,5,2025-01-29 06:40:00,Credit Card,Canada
+819,500,Laptop,Accessories,1730.14,2,2025-01-17 02:39:00,Debit Card,USA
+820,151,Laptop,Accessories,1122.83,5,2025-01-01 17:33:00,Debit Card,UK
+821,33,Monitor,Electronics,1585.56,4,2025-01-11 00:19:00,Debit Card,Germany
+822,478,Laptop,Electronics,711.63,2,2025-01-03 14:27:00,Credit Card,Canada
+823,368,Keyboard,Accessories,278.76,4,2025-01-20 06:11:00,PayPal,Germany
+824,154,Keyboard,Electronics,23.59,1,2025-01-04 13:26:00,PayPal,Canada
+825,3,Laptop,Accessories,1148.8,4,2025-01-10 15:33:00,Credit Card,Germany
+826,105,USB Cable,Accessories,1640.5,1,2025-01-07 13:24:00,PayPal,USA
+827,451,USB Cable,Electronics,602.8,4,2025-01-01 12:40:00,PayPal,Germany
+828,157,Mouse,Accessories,1106.4,1,2025-01-25 14:12:00,Debit Card,USA
+829,196,Monitor,Electronics,1279.09,1,2025-01-03 21:42:00,Credit Card,France
+830,393,Laptop,Accessories,1975.76,3,2025-01-21 14:41:00,Debit Card,USA
+831,172,Laptop,Accessories,622.81,2,2025-01-25 14:19:00,PayPal,Germany
+832,86,Keyboard,Electronics,1461.74,3,2025-01-09 20:27:00,Debit Card,UK
+833,308,Keyboard,Accessories,319.1,2,2025-01-16 17:32:00,Debit Card,France
+834,169,Laptop,Electronics,1882.67,3,2025-01-10 19:00:00,Credit Card,Canada
+835,123,Monitor,Accessories,1576.7,5,2025-01-22 03:47:00,Debit Card,USA
+836,59,Monitor,Accessories,353.4,5,2025-01-14 03:14:00,PayPal,Germany
+837,86,Laptop,Accessories,1185.74,1,2025-01-08 08:27:00,Credit Card,Canada
+838,485,Monitor,Electronics,267.63,4,2025-01-14 00:24:00,PayPal,USA
+839,76,Laptop,Electronics,714.79,4,2025-01-31 17:30:00,Debit Card,Canada
+840,438,USB Cable,Electronics,1758.6,2,2025-01-08 09:49:00,Credit Card,Canada
+841,170,USB Cable,Electronics,172.15,4,2025-01-04 00:12:00,Debit Card,USA
+842,259,Mouse,Electronics,1449.28,4,2025-01-18 06:03:00,Debit Card,Canada
+843,492,Monitor,Electronics,1200.79,2,2025-01-19 17:28:00,PayPal,France
+844,367,Mouse,Electronics,703.11,4,2025-01-09 08:39:00,Credit Card,USA
+845,478,Laptop,Accessories,532.47,3,2025-01-24 17:42:00,PayPal,Canada
+846,266,Laptop,Electronics,1986.24,3,2025-01-25 11:30:00,Debit Card,France
+847,157,Keyboard,Electronics,160.74,4,2025-01-24 10:49:00,Debit Card,USA
+848,134,USB Cable,Accessories,819.61,2,2025-01-19 03:45:00,Debit Card,UK
+849,307,Mouse,Accessories,620.2,5,2025-01-27 22:38:00,PayPal,France
+850,494,Monitor,Electronics,1615.43,2,2025-01-22 19:14:00,Credit Card,UK
+851,409,Monitor,Electronics,1523.56,4,2025-01-16 01:10:00,PayPal,USA
+852,410,Monitor,Accessories,69.11,2,2025-01-30 22:27:00,Credit Card,Germany
+853,453,Mouse,Electronics,153.33,5,2025-01-12 06:39:00,PayPal,Canada
+854,425,USB Cable,Electronics,1031.85,4,2025-01-03 21:36:00,Debit Card,Germany
+855,170,USB Cable,Electronics,1253.16,1,2025-01-25 20:57:00,Credit Card,Canada
+856,51,Laptop,Electronics,1694.29,5,2025-01-24 16:45:00,Debit Card,France
+857,330,Laptop,Accessories,1605.68,3,2025-01-31 03:26:00,PayPal,USA
+858,105,Keyboard,Accessories,1192.39,2,2025-01-18 21:47:00,Credit Card,Germany
+859,402,Mouse,Electronics,1630.98,5,2025-01-04 10:40:00,Debit Card,France
+860,185,Mouse,Electronics,1232.09,5,2025-01-06 04:08:00,PayPal,UK
+861,387,Mouse,Electronics,1576.37,4,2025-01-17 02:06:00,Debit Card,France
+862,40,USB Cable,Accessories,641.9,1,2025-01-18 14:44:00,PayPal,Germany
+863,62,Laptop,Accessories,815.98,2,2025-01-03 19:44:00,Credit Card,Canada
+864,325,Mouse,Electronics,1139.76,4,2025-01-31 16:40:00,Credit Card,UK
+865,283,Laptop,Electronics,14.41,1,2025-01-13 06:04:00,Debit Card,France
+866,459,Mouse,Accessories,1057.95,2,2025-01-26 19:07:00,Debit Card,UK
+867,214,Laptop,Accessories,1226.45,1,2025-01-21 23:18:00,Credit Card,UK
+868,237,Laptop,Electronics,1359.17,2,2025-01-09 12:03:00,Debit Card,USA
+869,415,Keyboard,Electronics,565.55,4,2025-01-10 11:16:00,PayPal,Germany
+870,339,Monitor,Accessories,1726.52,3,2025-01-28 22:48:00,Debit Card,Germany
+871,30,Mouse,Electronics,884.15,5,2025-01-17 10:49:00,Credit Card,UK
+872,367,USB Cable,Accessories,378.2,1,2025-01-29 04:03:00,PayPal,USA
+873,120,Mouse,Electronics,1855.07,4,2025-01-12 10:27:00,Credit Card,Canada
+874,192,USB Cable,Electronics,1170.99,3,2025-01-24 14:55:00,Debit Card,France
+875,280,Monitor,Accessories,1223.27,3,2025-01-06 10:12:00,Credit Card,France
+876,84,Monitor,Accessories,1231.93,3,2025-01-07 11:28:00,PayPal,UK
+877,459,Mouse,Electronics,1664.97,5,2025-01-09 02:49:00,PayPal,USA
+878,324,Mouse,Electronics,351.39,5,2025-01-29 23:51:00,PayPal,UK
+879,259,Laptop,Accessories,1627.69,5,2025-01-11 06:05:00,Debit Card,UK
+880,419,Laptop,Accessories,125.8,3,2025-01-25 04:16:00,Debit Card,USA
+881,306,Laptop,Accessories,1248.21,2,2025-01-01 18:56:00,Credit Card,UK
+882,346,Laptop,Electronics,791.37,3,2025-01-01 06:55:00,Debit Card,Canada
+883,357,Laptop,Electronics,1950.76,4,2025-01-04 10:01:00,Debit Card,USA
+884,466,Monitor,Electronics,126.04,1,2025-01-23 23:12:00,PayPal,Germany
+885,341,Monitor,Accessories,1295.86,3,2025-01-26 19:55:00,Credit Card,UK
+886,261,Mouse,Electronics,679.47,3,2025-01-24 09:03:00,Credit Card,France
+887,57,Keyboard,Accessories,427.88,3,2025-01-10 06:30:00,PayPal,UK
+888,285,USB Cable,Electronics,1102.96,1,2025-01-01 23:48:00,PayPal,Germany
+889,35,Keyboard,Accessories,1643.56,3,2025-01-25 19:48:00,Debit Card,UK
+890,20,USB Cable,Accessories,1872.76,2,2025-01-28 13:53:00,Credit Card,France
+891,495,Monitor,Electronics,1961.34,5,2025-01-09 04:40:00,PayPal,France
+892,214,Monitor,Electronics,172.65,5,2025-01-01 00:44:00,Debit Card,UK
+893,16,Mouse,Accessories,1517.51,5,2025-01-05 14:04:00,Credit Card,UK
+894,45,Monitor,Accessories,1540.12,4,2025-01-06 22:45:00,Debit Card,USA
+895,196,Mouse,Accessories,335.25,3,2025-01-02 15:12:00,Credit Card,USA
+896,158,USB Cable,Electronics,777.89,3,2025-01-03 20:00:00,PayPal,Canada
+897,55,Monitor,Electronics,730.2,2,2025-01-05 03:58:00,Debit Card,USA
+898,390,Mouse,Electronics,1545.17,2,2025-01-04 00:34:00,PayPal,France
+899,294,Monitor,Electronics,672.08,2,2025-01-21 07:27:00,PayPal,UK
+900,264,Keyboard,Accessories,837.45,4,2025-01-23 09:34:00,Debit Card,Germany
+901,113,Monitor,Electronics,323.45,1,2025-01-08 09:36:00,Debit Card,UK
+902,74,USB Cable,Accessories,1610.24,3,2025-01-25 16:59:00,Credit Card,UK
+903,454,Laptop,Electronics,606.05,4,2025-01-06 04:02:00,Debit Card,France
+904,66,Monitor,Accessories,1752.72,5,2025-01-14 17:05:00,Debit Card,USA
+905,108,Mouse,Accessories,202.84,2,2025-01-21 15:23:00,PayPal,Germany
+906,251,Mouse,Electronics,1119.54,4,2025-01-31 23:37:00,PayPal,UK
+907,458,Laptop,Electronics,170.15,5,2025-01-01 22:24:00,Credit Card,USA
+908,152,Laptop,Accessories,1894.33,3,2025-01-30 16:21:00,PayPal,Germany
+909,39,Laptop,Accessories,1586.7,5,2025-01-16 06:07:00,Debit Card,Canada
+910,58,USB Cable,Electronics,1867.61,1,2025-01-02 21:10:00,PayPal,USA
+911,349,Monitor,Electronics,1246.22,1,2025-01-21 15:38:00,PayPal,Germany
+912,306,Laptop,Electronics,45.76,4,2025-01-21 04:52:00,Credit Card,Canada
+913,303,Mouse,Accessories,778.11,5,2025-01-22 21:22:00,PayPal,UK
+914,204,USB Cable,Accessories,983.4,4,2025-01-24 16:27:00,PayPal,Canada
+915,103,USB Cable,Electronics,1887.92,4,2025-01-09 15:28:00,Debit Card,France
+916,334,Keyboard,Electronics,67.09,1,2025-01-23 01:49:00,PayPal,Germany
+917,448,Mouse,Accessories,1739.44,3,2025-01-10 06:32:00,Debit Card,France
+918,19,USB Cable,Accessories,144.88,5,2025-01-03 02:52:00,Credit Card,Germany
+919,266,Laptop,Electronics,688.93,5,2025-01-10 01:53:00,PayPal,Canada
+920,295,Monitor,Accessories,1511.75,4,2025-01-23 14:13:00,Credit Card,Germany
+921,219,Keyboard,Electronics,47.69,2,2025-01-08 13:11:00,Debit Card,France
+922,500,Laptop,Electronics,482.58,1,2025-01-18 20:50:00,PayPal,France
+923,89,USB Cable,Electronics,863.31,3,2025-01-08 00:21:00,Debit Card,USA
+924,6,Keyboard,Electronics,634.73,5,2025-01-18 08:41:00,PayPal,USA
+925,479,Keyboard,Electronics,1142.44,4,2025-01-14 17:38:00,Debit Card,Canada
+926,105,Laptop,Electronics,1675.57,3,2025-01-07 21:00:00,PayPal,Germany
+927,64,Mouse,Electronics,1880.65,2,2025-01-04 19:38:00,Credit Card,France
+928,320,Laptop,Electronics,543.44,2,2025-01-15 00:54:00,Credit Card,Germany
+929,341,USB Cable,Accessories,1713.58,2,2025-01-08 23:32:00,PayPal,Germany
+930,83,Monitor,Accessories,1609.91,2,2025-01-16 21:45:00,Credit Card,USA
+931,500,Keyboard,Accessories,211.14,5,2025-01-28 04:36:00,Debit Card,UK
+932,228,Laptop,Electronics,396.35,3,2025-01-08 19:54:00,Credit Card,UK
+933,202,Keyboard,Accessories,741.23,4,2025-01-02 02:05:00,Credit Card,France
+934,287,Mouse,Electronics,1023.99,1,2025-01-09 16:02:00,PayPal,Canada
+935,146,Monitor,Electronics,1620.87,3,2025-01-28 07:20:00,Debit Card,USA
+936,275,USB Cable,Electronics,1841.16,2,2025-01-08 23:28:00,PayPal,USA
+937,333,Laptop,Electronics,1256.64,3,2025-01-07 01:26:00,PayPal,USA
+938,64,Laptop,Accessories,521.37,1,2025-01-13 05:31:00,Debit Card,Germany
+939,192,Laptop,Electronics,1793.54,5,2025-01-27 03:23:00,Credit Card,France
+940,35,Keyboard,Accessories,259.64,3,2025-01-14 21:12:00,Debit Card,UK
+941,480,Keyboard,Electronics,777.03,4,2025-01-11 21:02:00,Debit Card,USA
+942,91,Monitor,Accessories,467.26,3,2025-01-24 22:07:00,PayPal,Canada
+943,433,Keyboard,Accessories,1409.65,5,2025-01-05 17:08:00,PayPal,Canada
+944,482,Mouse,Electronics,119.59,4,2025-01-27 07:33:00,Credit Card,USA
+945,372,Laptop,Accessories,315.58,1,2025-01-13 03:53:00,PayPal,UK
+946,178,Monitor,Electronics,903.94,2,2025-01-09 05:11:00,Debit Card,Canada
+947,172,Laptop,Electronics,463.18,4,2025-01-05 21:58:00,Debit Card,Canada
+948,202,Mouse,Accessories,859.76,5,2025-01-30 08:48:00,PayPal,Germany
+949,233,USB Cable,Electronics,1565.41,2,2025-01-07 02:32:00,Credit Card,France
+950,397,Keyboard,Accessories,962.64,3,2025-01-21 12:51:00,Debit Card,Germany
+951,368,Laptop,Accessories,1599.04,2,2025-01-10 06:39:00,PayPal,USA
+952,120,Keyboard,Electronics,1701.75,2,2025-01-31 13:42:00,Debit Card,Germany
+953,365,USB Cable,Electronics,1502.43,5,2025-01-03 02:35:00,Credit Card,France
+954,351,Monitor,Accessories,1359.75,1,2025-01-13 14:06:00,Credit Card,UK
+955,263,Laptop,Accessories,1371.94,1,2025-01-21 11:52:00,Credit Card,UK
+956,336,USB Cable,Accessories,321.66,5,2025-01-17 08:08:00,Debit Card,USA
+957,397,Laptop,Electronics,1622.7,5,2025-01-01 10:22:00,PayPal,USA
+958,344,Mouse,Accessories,859.32,2,2025-01-07 16:12:00,Credit Card,Canada
+959,3,Mouse,Electronics,92.3,1,2025-01-13 00:17:00,Debit Card,Canada
+960,489,USB Cable,Accessories,1193.83,2,2025-01-18 17:20:00,Credit Card,Germany
+961,118,Laptop,Accessories,270.51,3,2025-01-17 14:44:00,Credit Card,Germany
+962,346,Monitor,Accessories,313.62,5,2025-01-18 11:32:00,Debit Card,UK
+963,482,USB Cable,Electronics,621.21,3,2025-01-11 02:33:00,Debit Card,UK
+964,380,Laptop,Electronics,535.05,3,2025-01-27 08:28:00,Credit Card,UK
+965,480,Keyboard,Accessories,725.81,1,2025-01-24 13:31:00,Credit Card,Canada
+966,345,Monitor,Accessories,845.01,1,2025-01-27 09:06:00,Debit Card,France
+967,9,Laptop,Accessories,1437.35,2,2025-01-24 08:56:00,PayPal,Canada
+968,231,Mouse,Electronics,1985.7,3,2025-01-14 09:05:00,PayPal,France
+969,230,Monitor,Electronics,898.32,3,2025-01-08 13:31:00,PayPal,France
+970,24,USB Cable,Electronics,1260.44,4,2025-01-21 09:17:00,PayPal,USA
+971,227,Keyboard,Accessories,1925.8,3,2025-01-12 21:21:00,Debit Card,Canada
+972,73,Mouse,Electronics,66.9,4,2025-01-26 09:06:00,Credit Card,UK
+973,457,Keyboard,Electronics,272.3,4,2025-01-31 16:32:00,Credit Card,France
+974,483,Monitor,Electronics,1233.75,5,2025-01-31 23:42:00,Credit Card,France
+975,299,Mouse,Electronics,731.2,1,2025-01-14 13:04:00,Debit Card,France
+976,110,Laptop,Accessories,1766.19,1,2025-01-10 12:49:00,Credit Card,Germany
+977,173,USB Cable,Electronics,1851.95,1,2025-01-12 18:48:00,PayPal,Canada
+978,161,USB Cable,Electronics,1982.0,5,2025-01-24 21:39:00,PayPal,France
+979,261,Laptop,Electronics,234.82,1,2025-01-27 18:26:00,Credit Card,USA
+980,14,Keyboard,Electronics,1942.75,1,2025-01-09 00:40:00,PayPal,Canada
+981,34,Laptop,Accessories,1571.73,1,2025-01-18 17:45:00,PayPal,France
+982,8,Laptop,Electronics,1378.65,1,2025-01-27 23:14:00,Credit Card,UK
+983,439,USB Cable,Electronics,521.37,2,2025-01-23 03:40:00,PayPal,USA
+984,390,USB Cable,Electronics,1940.29,2,2025-01-24 06:38:00,PayPal,USA
+985,250,Laptop,Electronics,1049.44,2,2025-01-23 19:52:00,Credit Card,USA
+986,450,Laptop,Accessories,1495.79,1,2025-01-05 10:44:00,Credit Card,UK
+987,257,Keyboard,Accessories,1115.54,1,2025-01-18 03:56:00,PayPal,Canada
+988,459,Monitor,Accessories,424.66,5,2025-01-10 21:11:00,PayPal,UK
+989,151,Laptop,Accessories,1201.9,1,2025-01-25 01:04:00,Debit Card,UK
+990,285,USB Cable,Accessories,128.26,4,2025-01-12 06:57:00,PayPal,Canada
+991,156,Monitor,Accessories,833.27,5,2025-01-04 10:50:00,Debit Card,France
+992,249,Mouse,Electronics,468.66,4,2025-01-20 19:45:00,Credit Card,France
+993,235,Mouse,Electronics,1601.54,1,2025-01-09 04:24:00,PayPal,Germany
+994,169,Mouse,Electronics,831.63,4,2025-01-08 09:04:00,Debit Card,Germany
+995,322,Laptop,Electronics,1135.68,5,2025-01-16 07:48:00,PayPal,USA
+996,258,Keyboard,Accessories,1280.51,5,2025-01-28 10:08:00,Debit Card,Germany
+997,371,Mouse,Electronics,1004.61,2,2025-01-25 12:29:00,Credit Card,USA
+998,96,Mouse,Accessories,1243.47,4,2025-01-10 03:56:00,Credit Card,UK
+999,103,USB Cable,Accessories,1959.04,1,2025-01-29 02:14:00,Debit Card,USA
+1000,410,Mouse,Electronics,1623.27,1,2025-01-01 22:21:00,PayPal,USA
