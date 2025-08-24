@@ -30,7 +30,7 @@ def setup_buckets():
 
     # Use Airflow S3Hook to maintain consistency
     hook = S3Hook(aws_conn_id=MINIO_CONN_ID)
-    client = hook.get_conn()  # boto3 client under the hood
+    client = hook.get_conn()
     
     for bucket in [RAW_BUCKET, PROCESSED_BUCKET]:
         exists = hook.check_for_bucket(bucket_name=bucket)
@@ -44,27 +44,20 @@ def setup_buckets():
 # Upload CSV to MinIO
 # -------------------------
 def upload_to_minio():
-    """Upload a local CSV to the raw bucket using MinIO client"""
     logger.info("Uploading CSV to MinIO bucket")
-    
-    # MinIO credentials from environment (más seguro)
-    minio_client = Minio(
-        "minio:9000",  # nombre del servicio Docker
-        access_key=os.getenv("MINIO_ROOT_USER", "minioadmin"),
-        secret_key=os.getenv("MINIO_ROOT_PASSWORD", "minioadmin"),
-        secure=False
-    )
-    
+    hook = S3Hook(aws_conn_id=MINIO_CONN_ID)
     local_file = "/opt/airflow/data/raw/orders.csv"
     if not os.path.exists(local_file):
         raise FileNotFoundError(f"File not found: {local_file}")
     
-    minio_client.fput_object(
+    hook.load_file(
+        filename=local_file,
+        key=RAW_FILE,
         bucket_name=RAW_BUCKET,
-        object_name=RAW_FILE,
-        file_path=local_file
+        replace=True
     )
-    logger.info(f"File {RAW_FILE} uploaded to bucket {RAW_BUCKET}")
+    logger.info(f"File {RAW_FILE} uploaded to bucket {RAW_BUCKET} using S3Hook")
+
 
 # -------------------------
 # ETL Functions
